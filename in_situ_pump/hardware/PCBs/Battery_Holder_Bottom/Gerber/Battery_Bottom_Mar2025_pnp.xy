@@ -1,0 +1,26 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=Battery_Bottom_Mar2025
+# Date=14:45:17
+# CreatedBy=Fritzing 1.0.2b.2023-12-20.CD-1901-0-dbdbe34c
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+Via15,";;;;;;;;","",2669.86,3052.58,0,Top,MANUAL
+Via18,";;;;;;;;","",3329.31,1965.97,0,Top,MANUAL
+Via20,";;;;;;;;","",1350.96,761.235,0,Top,MANUAL
+Via21,";;;;;;;;","",2669.86,761.235,0,Top,MANUAL
+Via19,";;;;;;;;","",1341.12,3052.58,0,Top,MANUAL
+J4,";;;;;;;;","THT",610.469,1096.93,135,Top,THT
+Via16,";;;;;;;;","",2010.42,1926.59,0,Top,MANUAL
+Via13,";;;;;;;;","",2647.02,1568.33,0,Top,MANUAL
+Via17,";;;;;;;;","",691.514,1926.59,0,Top,MANUAL
+Via14,";;;;;;;;","",1350.97,1568.33,0,Top,MANUAL

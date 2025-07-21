@@ -1,0 +1,28 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=Battery_Top_Mar2025
+# Date=14:42:17
+# CreatedBy=Fritzing 1.0.2b.2023-12-20.CD-1901-0-dbdbe34c
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+Via19,";;;;;;;;","",1341.12,3052.58,0,Top,MANUAL
+S2,";;;;;;12;15;","tactile-switch-1101ne",1891.59,1299.39,-0.999999,Top,SMT
+Via17,";;;;;;;;","",691.514,1926.59,0,Top,MANUAL
+Via16,";;;;;;;;","",2010.42,1926.59,0,Top,MANUAL
+Via14,";;;;;;;;","",1350.97,1568.33,0,Top,MANUAL
+R2,"100;;;;;0.25W;;;","1206 [SMD]",1943.79,950.568,-90,Top,SMT
+Via13,";;;;;;;;","",2647.02,1568.33,0,Top,MANUAL
+Via18,";;;;;;;;","",3329.31,1965.97,0,Top,MANUAL
+LED2,";;;;0.030A;;;;","1206 [SMD]",1937.12,601.312,90,Top,SMT
+Via20,";;;;;;;;","",1350.96,761.235,0,Top,MANUAL
+Via15,";;;;;;;;","",2669.86,3052.58,0,Top,MANUAL
+Via21,";;;;;;;;","",2669.86,761.235,0,Top,MANUAL

@@ -3,7 +3,6 @@ A low cost, open source in situ pump for marine and freshwater sampling.
 
 ![Pump deployment aboard RV Walton Smith in October 2025](docs/Pump_deployment_Walton_Smith_cruise.jpg)
 
-<img src="docs/Pump_deployment_Walton_Smith_cruise.jpg" width=250>
 
 ## Features
 
@@ -22,7 +21,9 @@ A low cost, open source in situ pump for marine and freshwater sampling.
 
  (flowchart)
 
-## South Florida Test Cruise
+## Deployments
+
+### South Florida Test Cruise
 <img src="docs/Pump_deployment_Walton_Smith_cruise.jpg" width=250>
 <img src="docs/Filter_change_Walton_Smith_Cruise.jpg" width=250>
 

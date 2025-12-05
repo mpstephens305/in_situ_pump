@@ -17,7 +17,7 @@ A low cost, open source in situ pump for marine and freshwater sampling.
 	(filter holder assembly)
 
 ## Software
-
+[Arduino IDE](https://www.arduino.cc/en/software/)
 
  <img src="docs/Arduino_Pump_flow_chart.jpg" width=450 border=1>
 

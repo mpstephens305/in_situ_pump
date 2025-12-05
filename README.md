@@ -5,6 +5,7 @@ A low cost, open source in situ pump for marine and freshwater sampling.
 
 
 ## Features
+[Teensy 4.1](https://www.pjrc.com/store/teensy41.html) development board
 
 ## How to Get One
 
@@ -18,6 +19,10 @@ A low cost, open source in situ pump for marine and freshwater sampling.
 
 ## Software
 [Arduino IDE](https://www.arduino.cc/en/software/)
+the [Teensyduino](https://www.pjrc.com/teensy/teensyduino.html) add-on for Arduino IDE
+KurtE [MTP_Teensy](https://github.com/KurtE/MTP_Teensy) library
+the [Blue Robotics_MS5837_Library](https://github.com/bluerobotics/BlueRobotics_MS5837_Library)
+
 
  <img src="docs/Arduino_Pump_flow_chart.jpg" width=450 border=1>
 

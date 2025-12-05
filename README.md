@@ -1,7 +1,7 @@
 # in_situ_pump
 A low cost, open source in situ pump for marine and freshwater sampling.
 
-	![Pump deployment aboard RV Walton Smith in October 2025](docs/Pump_deployment_Walton_Smith_cruise.jpg)
+![Pump deployment aboard RV Walton Smith in October 2025](docs/Pump_deployment_Walton_Smith_cruise.jpg)
 
 
 ## Features

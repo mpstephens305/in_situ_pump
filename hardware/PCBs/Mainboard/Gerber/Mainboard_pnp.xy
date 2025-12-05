@@ -1,0 +1,21 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=Mainboard
+# Date=14:38:31
+# CreatedBy=Fritzing 1.0.2b.2023-12-20.CD-1901-0-dbdbe34c
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+J10,";;;;;;;;","THT",1464.64,3179.14,-130,Top,THT
+BAT1,";;;3.0V;;;;;","battcom_20mm_pth",2801.78,1037.02,180,Top,SMT
+J13,";;;;;;;;","THT",1800,637.007,90,Top,THT
+A1,";;;;;;;;","",2143.02,2152.5,-30,Top,MANUAL
+J14,";;;;;;;;","THT",450.787,2537.01,-90,Top,THT

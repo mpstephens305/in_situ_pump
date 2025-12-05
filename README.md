@@ -19,18 +19,19 @@ A low cost, open source in situ pump for marine and freshwater sampling.
 
 ## Software
 <table>
-	<TR>
-		<TD>
+<TR>
+<TD>
 [Arduino IDE](https://www.arduino.cc/en/software/)
 the [Teensyduino](https://www.pjrc.com/teensy/teensyduino.html) add-on for Arduino IDE
 KurtE [MTP_Teensy](https://github.com/KurtE/MTP_Teensy) library
 the [Blue Robotics_MS5837_Library](https://github.com/bluerobotics/BlueRobotics_MS5837_Library)
-		</TD>
+</TD>
 <TD>
- <img src="docs/Arduino_Pump_flow_chart.jpg" width=450 border=1>
+<img src="docs/Arduino_Pump_flow_chart.jpg" width=450 border=1>
 </td>
 </tr>
 </table>
+
 ## Deployments
 
 ### South Florida Test Cruise

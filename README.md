@@ -19,7 +19,7 @@ A low cost, open source in situ pump for marine and freshwater sampling.
 ## Software
 
 
- (flowchart)
+ <img src="docs/Arduino_Pumo_flow_chart.jpg" width=450>
 
 ## Deployments
 

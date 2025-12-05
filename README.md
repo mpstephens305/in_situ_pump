@@ -32,6 +32,7 @@ the [Blue Robotics_MS5837_Library](https://github.com/bluerobotics/BlueRobotics_
 in_situ_pump first-ever deplyments were in the Gulf Stream on a cruise aboard R/V Walton Smith, October 7-9, 2025. 
 
 |<img src="docs/Filter_change_Walton_Smith_Cruise.jpg" width=325> | <img src="docs/Pump_deployment_Walton_Smith_cruise.jpg" width=250> |
+
 |Filter changing | Deployment of in_situ_pump |
 
 ## Acknowledgements

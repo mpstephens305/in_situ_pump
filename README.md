@@ -1,9 +1,9 @@
 # in_situ_pump
-A low cost, open source in situ pump for marine and freshwater sampling being developed at Florida International University by Mark Stephens and Andres Martinez..
+A low cost, open source in situ pump for marine and freshwater sampling being developed at Florida International University by Mark Stephens and Andres Martinez.
 
 ![Pump deployment aboard RV Walton Smith in October 2025](docs/Pump_deployment_Walton_Smith_cruise_cropped2.jpg)
 
-<P><b>Motivation: </b>In situ pumps allow for simultaneous sampling at multiple depths. However, commercially available units can cost tens of thousands of dollars. For applications involving shallow deployments, a more feasible solution is desirable.
+<P><b>Motivation: </b>In situ pumps allow for simultaneous sampling at multiple depths. However, commercially available units can cost tens of thousands of dollars. For applications involving shallow deployments, a more feasible solution is desirable. Our intention is to provide a complete step-by-step guide for building, programming, and operating the in_situ_pump. The system is adaptable for use in a variety of environments and projects. Community input and collaborations are most welcome. 
 </P>
 
 ## Features

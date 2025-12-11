@@ -1,5 +1,5 @@
 # in_situ_pump
-A low cost, open source in situ pump for marine and freshwater sampling being developed at Florida Internation University by Mark Stephens and Anres Martinez..
+A low cost, open source in situ pump for marine and freshwater sampling being developed at Florida International University by Mark Stephens and Andres Martinez..
 
 ![Pump deployment aboard RV Walton Smith in October 2025](docs/Pump_deployment_Walton_Smith_cruise_cropped2.jpg)
 
@@ -56,9 +56,10 @@ the <a href="https://github.com/bluerobotics/BlueRobotics_MS5837_Library">Blue R
 ## Deployments
 
 ### South Florida Test Cruise
-in_situ_pump first-ever deplyments were in the Gulf Stream on a cruise aboard R/V Walton Smith, October 7-9, 2025. 
+in_situ_pump first-ever deployments were in the Gulf Stream on a cruise aboard R/V Walton Smith, October 7-9, 2025. Additional cruises are planned for 2026 in the Sargasso Sea.
 
 <img src="docs/Pump_deployment_Walton_Smith_cruise.jpg" width=250> | <img src="docs/Filter_change_Walton_Smith_Cruise.jpg" width=315> 
 
 ## Acknowledgements
-This project is supported by the U.S.National Science Foundation (Grant # OCE). We are grateful for technical support and advice provided at Florida International University's Applied research Center (FIU-ARC) from the following individuals: Dr Yipeng He, Theophile Pierre, and Gabriel Cerioni.  Emily Jackson and Sahaira Paz assisted with testing the device and operations on the South Florida cruise. We thank the captain and crew of research vessel F.G. Walton Smith. Emily Jackson and Clint Miller provided photographs.
+This project is supported by the U.S.National Science Foundation (Grant # OCE). We are grateful for technical support and advice provided at Florida International University's Applied research Center (FIU-ARC) from the following individuals: Dr Yipeng He, Theophile Pierre, Gabriel Cerioni, and Anthony Abrahao.  Emily Jackson and Sahaira Paz assisted with testing the device and operations on the South Florida cruise. We thank the captain and crew of research vessel F.G. Walton Smith. Photo credits: Emily Jackson and Clint Miller. This project is supported by the U.S. National Science Foundation through grant NSF-OCE-2446521.  
+

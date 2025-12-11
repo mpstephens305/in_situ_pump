@@ -7,7 +7,7 @@ _A low cost, open source in situ pump for marine and freshwater sampling being d
 </P>
 
 ## Features
-* 3D printed pump unit driven by a Blue Robotics subsea motor.
+* 3D printed pump unit driven by a [Blue Robotics subsea motor](https://bluerobotics.com/store/thrusters/t100-t200-thrusters/m200-motor/).
 * Controlled by a [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) development board.
 * Electronics and power supply inside watertight enclosure.
 * Adaptable to various filter media (cartridges, GFF, acrylic fiber, etc.).

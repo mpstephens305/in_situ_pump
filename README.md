@@ -7,19 +7,26 @@ A low cost, open source in situ pump for marine and freshwater sampling.
 </P>
 
 ## Features
-3D printed pump unit driven by a Blue Robotics subsea motor.
+* 3D printed pump unit driven by a Blue Robotics subsea motor.
+* Controlled by a Teensy 4.1 development board.
+* Electronics and power supply inside watertight enclosure.
+* Adaptable to various filter media (cartridges, GFF, acrylic fiber, etc.).
+* Adaptable to sampling different chemical and isotopic species in the dissolved and particulate phases in seawater and freshwater.
+* Simple operation.
+* Easily programmable start delay, sampling duration, and motor speed.
 
-Controlled by a Teensy 4.1 development board.
+## Fact Sheet:
+* Materials cost: ~$2000 US.
+* Power supply: c-cell batteries.
+* Maximum depth: 300 m.
+* Sensors: pressure (depth), temperature, flow rate, voltage.
+* Data storage: microSD card.
+* Communications: USB.
+* Dimensions: 24 x 18 x 12 in.
+* Weight: 40 lb.
+  
+<img width="2034" height="790" alt="image" src="https://github.com/user-attachments/assets/34c5bcc1-11e5-4697-8fd1-37967672f448" />
 
-Electronics and power supply inside watertight enclosure.
-
-Adaptable to various filter media (cartridges, GFF, acrylic fiber, etc.).
-
-Adaptable to sampling different chemical and isotopic species in the dissolved and particulate phases in seawater and freshwater.
-
-Simple operation.
-
-Easily programmable start delay, sampling duration, and motor speed.
 
 <img width="4242" height="1240" alt="image" src="https://github.com/user-attachments/assets/aca9b331-d454-4bb0-bf71-1da4869d08f4" />
 

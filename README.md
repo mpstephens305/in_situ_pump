@@ -1,5 +1,5 @@
 # in_situ_pump
-A low cost, open source in situ pump for marine and freshwater sampling being developed at Florida International University by Mark Stephens and Andres Martinez.
+_A low cost, open source in situ pump for marine and freshwater sampling being developed at Florida International University by Mark Stephens and Andres Martinez._
 
 ![Pump deployment aboard RV Walton Smith in October 2025](docs/Pump_deployment_Walton_Smith_cruise_cropped2.jpg)
 
@@ -8,7 +8,7 @@ A low cost, open source in situ pump for marine and freshwater sampling being de
 
 ## Features
 * 3D printed pump unit driven by a Blue Robotics subsea motor.
-* Controlled by a Teensy 4.1 development board.
+* Controlled by a [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) development board.
 * Electronics and power supply inside watertight enclosure.
 * Adaptable to various filter media (cartridges, GFF, acrylic fiber, etc.).
 * Adaptable to sampling different chemical and isotopic species in the dissolved and particulate phases in seawater and freshwater.
@@ -26,7 +26,7 @@ A low cost, open source in situ pump for marine and freshwater sampling being de
 * Weight: 40 lb.
   
 
-[Teensy 4.1](https://www.pjrc.com/store/teensy41.html) development board
+
 
 ## How to Get One
 

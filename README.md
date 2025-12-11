@@ -3,10 +3,27 @@ A low cost, open source in situ pump for marine and freshwater sampling.
 
 ![Pump deployment aboard RV Walton Smith in October 2025](docs/Pump_deployment_Walton_Smith_cruise_cropped2.jpg)
 
-<P>In situ pumps allow for simultaneous sampling at multiple depths. However, commercially available units can cost tens of thousands of dollars. For applications involving shallow deployments, a more feasible solution is desirable.
+<P><b>Motivation: </b>b>In situ pumps allow for simultaneous sampling at multiple depths. However, commercially available units can cost tens of thousands of dollars. For applications involving shallow deployments, a more feasible solution is desirable.
 </P>
 
 ## Features
+3D printed pump unit driven by a Blue Robotics subsea motor.
+
+Controlled by a Teensy 4.1 development board.
+
+Electronics and power supply inside watertight enclosure.
+
+Adaptable to various filter media (cartridges, GFF, acrylic fiber, etc.).
+
+Adaptable to sampling different chemical and isotopic species in the dissolved and particulate phases in seawater and freshwater.
+
+Simple operation.
+
+Easily programmable start delay, sampling duration, and motor speed.
+
+<img width="4242" height="1240" alt="image" src="https://github.com/user-attachments/assets/aca9b331-d454-4bb0-bf71-1da4869d08f4" />
+
+
 [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) development board
 
 ## How to Get One

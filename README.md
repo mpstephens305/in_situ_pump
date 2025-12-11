@@ -34,7 +34,7 @@ _A low cost, open source in situ pump for marine and freshwater sampling being d
 ## Hardware
 <img src="docs/Pump_Photo_labeled.jpg" width=550 border=1>
 	
-	<a href="hardware/frame_assembly/frame_assembly.pdf">frame</a>, 
+<a href="hardware/frame_assembly/frame_assembly.pdf">frame</a>, 
 	<a href="hardware/pump_unit/Pump_Unit.pdf">pump unit</a>, 
 	<a href="hardware/wire_clamp/Wire_clamp.pdf">wire clamp</a>, 
 	(electronics assembly), 

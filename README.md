@@ -17,9 +17,9 @@ _A low cost, open source in situ pump for marine and freshwater sampling being d
 
 ## Fact Sheet:
 * Materials cost: ~$2000 US.
-* Power supply: c-cell batteries.
+* Power supply: c-cell batteries (can be adapted to other batteries including lithium).
 * Maximum depth: 300 m.
-* Sensors: pressure (depth), temperature, flow rate, voltage.
+* Sensors: pressure (depth), temperature, flow rate, voltage, DC current.
 * Data storage: microSD card.
 * Communications: USB.
 * Dimensions: 24 x 18 x 12 in.
@@ -56,10 +56,10 @@ the <a href="https://github.com/bluerobotics/BlueRobotics_MS5837_Library">Blue R
 ## Deployments
 
 ### South Florida Test Cruise
-in_situ_pump first-ever deployments were in the Gulf Stream on a cruise aboard R/V Walton Smith, October 7-9, 2025. Additional cruises are planned for 2026 in the Sargasso Sea.
+The first ever deployments of the in_situ_pump were conducted  in the Gulf Stream offshore South Florida and the Florida Keys on a cruise aboard R/V Walton Smith, October 7-9, 2025. Additional cruises are planned for 2026 in the Sargasso Sea.
 
 <img src="docs/Pump_deployment_Walton_Smith_cruise.jpg" width=250> | <img src="docs/Filter_change_Walton_Smith_Cruise.jpg" width=315> 
 
 ## Acknowledgements
-This project is supported by the U.S.National Science Foundation (Grant # OCE). We are grateful for technical support and advice provided at Florida International University's Applied research Center (FIU-ARC) from the following individuals: Dr Yipeng He, Theophile Pierre, Gabriel Cerioni, and Anthony Abrahao.  Emily Jackson and Sahaira Paz assisted with testing the device and operations on the South Florida cruise. We thank the captain and crew of research vessel F.G. Walton Smith. Photo credits: Emily Jackson and Clint Miller. This project is supported by the U.S. National Science Foundation through grant NSF-OCE-2446521.  
+_This project is supported by the U.S.National Science Foundation (Grant # NSF-OCE-2446521). We are grateful for technical support and advice provided at Florida International University's Applied Research Center (FIU-ARC) from the following individuals: Dr Yipeng He, Theophile Pierre, Gabriel Cerioni, and Anthony Abrahao.  Emily Jackson and Sahaira Paz assisted with testing the device and operations on the South Florida cruise. We thank the captain and crew of research vessel F.G. Walton Smith. Photo credits: Emily Jackson and Clint Miller. _
 

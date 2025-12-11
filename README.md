@@ -2,7 +2,7 @@
 A low cost, open source in situ pump for marine and freshwater sampling.
 
 ![Pump deployment aboard RV Walton Smith in October 2025](docs/Pump_deployment_Walton_Smith_cruise_cropped2.jpg)
-<img width="7776" height="175" alt="image" src="https://github.com/user-attachments/assets/e0ee7541-a840-456f-80db-e6c4dedfc63d" />
+
 <P>In situ pumps allow for simultaneous sampling at multiple depths. However, commercially available units can cost tens of thousands of dollars. For applications involving shallow deployments, a more feasible solution is desirable.
 </P>
 

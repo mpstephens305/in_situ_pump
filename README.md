@@ -55,7 +55,7 @@ the <a href="https://www.pjrc.com/teensy/teensyduino.html")Teensyduino</a> add-o
 KurtE <a href="https://github.com/KurtE/MTP_Teensy")MTP_Teensy</a> library
 the <a href="https://github.com/bluerobotics/BlueRobotics_MS5837_Library">Blue Robotics_MS5837_Library</a>
 </TD>
-<TD>
+<TD width =460>
 <img src="docs/Arduino_Pump_flow_chart.jpg" width=450 border=1>
 </td>
 </tr>

@@ -1,5 +1,6 @@
 # in_situ_pump
-_A low cost, open source in situ pump for marine and freshwater sampling being developed at Florida International University by Mark Stephens and Andres Martinez._
+<center><font color="#ff0000"><i></i>This site is under construction and will be fully functional in February, 2025.</font>i></font></center>
+<P></P>A low cost, open source in situ pump for marine and freshwater sampling being developed at Florida International University by Mark Stephens and Andres Martinez.
 
 ![Pump deployment aboard RV Walton Smith in October 2025](docs/Pump_deployment_Walton_Smith_cruise_cropped2.jpg)
 
@@ -34,7 +35,7 @@ _A low cost, open source in situ pump for marine and freshwater sampling being d
 ### Hardware
 <img src="docs/Pump_Photo_labeled.jpg" width=550 border=1>
 	
-We provide step-by-step instructions for the construction of each component at the following links: <a href="hardware/frame_assembly/frame_assembly.pdf">frame_assembly</a>, 
+For step-by-step build instructions for each component, use the following links: <a href="hardware/frame_assembly/frame_assembly.pdf">frame_assembly</a>, 
 <a href="hardware/pump_unit/Pump_Unit.pdf">pump_unit</a>, <a href="">electronics_assembly</a>, and <a href="">filter_holder_assembly</a>. In addition,  
 we provide CAD files for manufacture of the <a href="hardware/wire_clamp/Wire_clamp.pdf">wire clamp</a>. 
 

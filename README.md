@@ -41,27 +41,27 @@
 <img src="docs/Pump_Photo_labeled.jpg" width=550 border=1>
 	
 For step-by-step build instructions for each component, use the following links: <a href="hardware/frame_assembly/frame_assembly.pdf">frame_assembly</a>, 
-<a href="hardware/pump_unit/Pump_Unit.pdf">pump_unit</a>, <a href="">electronics_assembly</a>, and <a href="">filter_holder_assembly</a>. In addition,  
-we provide CAD files for manufacture of the <a href="hardware/wire_clamp/Wire_clamp.pdf">wire clamp</a>. 
+<a href="hardware/pump_unit/Pump_Unit.pdf">pump_unit</a>, <a href="">electronics_assembly</a>, and <a href="">filter_holder_assembly</a>. In addition, we provide CAD files for manufacture of the <a href="hardware/wire_clamp/Wire_clamp.pdf">wire clamp</a>. 
 </td></tr></table>
 
 ### Software
 <table width="100%">
 	<thead>
     <tr>
-      <th width="50%"></th>
-      <th width="50%"></th>
+      <th width="40%"></th>
+      <th width="60%"></th>
     </tr>
   </thead>
 <TR>
-<TD styLe="width: 50%;">
+<TD>
 Pump operation is controlled by the Arduino sketch "teensy_pump_simple.ino". Prior to deployment, the user specifies the pump delay, pump duration, motor speed, and data filename. At the start of a deployment, the program is initialized, and then the countdown to pump start up (i.e., pump delay) begins. The motor then spins up and operates for the specified pump duration.  See the flowchart at the right for the full sequence.
+<P>Our step-by-step guides provide instructions for <a href="">software installation</a>, <a href="">operation</a>, <a href="">and data recovery</a>.	
 <a href="https://www.arduino.cc/en/software/">Arduino IDE</a>
 the <a href="https://www.pjrc.com/teensy/teensyduino.html")Teensyduino</a> add-on for Arduino IDE
 KurtE <a href="https://github.com/KurtE/MTP_Teensy")MTP_Teensy</a> library
 the <a href="https://github.com/bluerobotics/BlueRobotics_MS5837_Library">Blue Robotics_MS5837_Library</a>
 </TD>
-<TD styLe="width: 50%;">
+<TD>
 <img src="docs/Arduino_Pump_flow_chart.jpg" width=450 border=1>
 </td>
 </tr>

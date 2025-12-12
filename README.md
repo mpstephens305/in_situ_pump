@@ -60,6 +60,8 @@ the <a href="https://github.com/bluerobotics/BlueRobotics_MS5837_Library">Blue R
 ### South Florida Test Cruise
 The first ever deployments of the in_situ_pump were conducted  in the Gulf Stream offshore South Florida and the Florida Keys on a cruise aboard R/V Walton Smith, October 7-9, 2025. Additional cruises are planned for 2026 in the Sargasso Sea.
 
+<p>A few issues were identified during the test cruise. First, we found that on some deployments the microcontroller repeatedly shut down and rebooted. We identified the issue: the unit was losing power when it swung on the hydrowire during deployment because the springs in the battery compartment were too weak, so we replaced them with more robust springs.  Second, there were a two instances where the outlet of the pump head fractured. In order to address this, we are now using a tougher resin to print these parts. And third, the extraction efficiency of Be-7 from seawater was lower than expected.  In order to address this we are conducting tests using different flow rates and larger masses of filtering material.
+	
 <img src="docs/Pump_deployment_Walton_Smith_cruise.jpg" width=250> | <img src="docs/Filter_change_Walton_Smith_Cruise.jpg" width=315> 
 
 ## Acknowledgements

@@ -55,11 +55,8 @@ For step-by-step build instructions for each component, use the following links:
 <TR>
 <TD>
 Pump operation is controlled by the Arduino sketch "teensy_pump_simple.ino". Prior to deployment, the user specifies the pump delay, pump duration, motor speed, and data filename. At the start of a deployment, the program is initialized, and then the countdown to pump start up (i.e., pump delay) begins. The motor then spins up and operates for the specified pump duration.  See the flowchart at the right for the full sequence.
-<P>Our step-by-step guides provide instructions for <a href="">software installation</a>, <a href="">operation</a>, <a href="">and data recovery</a>.	
-<a href="https://www.arduino.cc/en/software/">Arduino IDE</a>
-the <a href="https://www.pjrc.com/teensy/teensyduino.html")Teensyduino</a> add-on for Arduino IDE
-KurtE <a href="https://github.com/KurtE/MTP_Teensy")MTP_Teensy</a> library
-the <a href="https://github.com/bluerobotics/BlueRobotics_MS5837_Library">Blue Robotics_MS5837_Library</a>
+<P>Our step-by-step guides provide instructions for <a href="">software installation</a>, <a href="">operation</a>, <a href="">and data recovery</a>.</P>
+
 </TD>
 <TD>
 <img src="docs/Arduino_Pump_flow_chart.jpg" width=450 border=1>

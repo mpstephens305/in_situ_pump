@@ -49,7 +49,7 @@ we provide CAD files for manufacture of the <a href="hardware/wire_clamp/Wire_cl
 <table>
 <TR>
 <TD style="width: 50%;">
-Pump operation is controlled by the Arduino sketch "teensy_p[ump_simple.ino". Prior to deployment, the user specifies the pump delay, pump duration, motor speed, and data filename. At the start of a deployment, the program is initialized, and then the countdown to pump start up (i.e., pump delay) begins. The motor then spins up and operates for the specified pump duration.  See the flowchart at the right for the full sequence.
+Pump operation is controlled by the Arduino sketch "teensy_pump_simple.ino". Prior to deployment, the user specifies the pump delay, pump duration, motor speed, and data filename. At the start of a deployment, the program is initialized, and then the countdown to pump start up (i.e., pump delay) begins. The motor then spins up and operates for the specified pump duration.  See the flowchart at the right for the full sequence.
 <a href="https://www.arduino.cc/en/software/">Arduino IDE</a>
 the <a href="https://www.pjrc.com/teensy/teensyduino.html")Teensyduino</a> add-on for Arduino IDE
 KurtE <a href="https://github.com/KurtE/MTP_Teensy")MTP_Teensy</a> library

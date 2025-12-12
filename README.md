@@ -54,7 +54,8 @@ For step-by-step build instructions for each component, use the following links:
   </thead>
 <TR>
 <TD valign="top">
-<P>Pump operation is controlled by the Arduino sketch "teensy_pump_simple.ino". Prior to deployment, the user specifies the pump delay, pump duration, motor speed, and data filename. At the start of a deployment, the program is initialized, and then the countdown to pump start up (i.e., pump delay) begins. The motor then spins up and operates for the specified pump duration.  See the flowchart at the right for the full sequence.</P>
+<P>Pump operation is controlled by the Arduino sketch "teensy_pump_simple.ino".</P> 
+<P>Prior to deployment, the user specifies the pump delay, pump duration, motor speed, and data filename. At the start of a deployment, the program is initialized, and then the countdown to pump start up (i.e., pump delay) begins. The motor then spins up and operates for the specified pump duration.  See the flowchart at the right for the full sequence.</P>
 <P>Our step-by-step guides provide instructions for <a href="">software installation</a>, <a href="">operation</a>, <a href="">and data recovery</a>.</P>
 
 </TD>

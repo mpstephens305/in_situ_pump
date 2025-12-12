@@ -1,6 +1,6 @@
 # in_situ_pump
-``` diff
--This site is under construction and will be fully functional in February, 2025.
+```diff
+-This site is under construction and will be fully functional in February, 2026.
 ```
 <P>A low cost, open source in situ pump for marine and freshwater sampling being developed at Florida International University by Mark Stephens and Andres Martinez.</P>
 
@@ -35,16 +35,21 @@
 
 
 ### Hardware
+<table>
+<TR>
+<TD>
 <img src="docs/Pump_Photo_labeled.jpg" width=550 border=1>
 	
 For step-by-step build instructions for each component, use the following links: <a href="hardware/frame_assembly/frame_assembly.pdf">frame_assembly</a>, 
 <a href="hardware/pump_unit/Pump_Unit.pdf">pump_unit</a>, <a href="">electronics_assembly</a>, and <a href="">filter_holder_assembly</a>. In addition,  
 we provide CAD files for manufacture of the <a href="hardware/wire_clamp/Wire_clamp.pdf">wire clamp</a>. 
+</td></tr></table>
 
 ### Software
 <table>
 <TR>
 <TD>
+Pump operation is controlled by the Arduino sketch "teensy_p[ump_simple.ino". Prior to deployment, the user specifies the pump delay, pump duration, motor speed, and data filename. At the start of a deployment, the program is initialized, and then the countdown to pump start up (i.e., pump delay) begins. The motor then spins up and operates for the specified pump duration.  See the flowchart at the right for the full sequence.
 <a href="https://www.arduino.cc/en/software/">Arduino IDE</a>
 the <a href="https://www.pjrc.com/teensy/teensyduino.html")Teensyduino</a> add-on for Arduino IDE
 KurtE <a href="https://github.com/KurtE/MTP_Teensy")MTP_Teensy</a> library

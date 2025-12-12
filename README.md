@@ -1,6 +1,6 @@
 # in_situ_pump
 ``` diff
--<P align=center><i>This site is under construction and will be fully functional in February, 2025.</i></p>
+-This site is under construction and will be fully functional in February, 2025.
 ```
 <P>A low cost, open source in situ pump for marine and freshwater sampling being developed at Florida International University by Mark Stephens and Andres Martinez.</P>
 

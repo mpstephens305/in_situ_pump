@@ -34,9 +34,9 @@ _A low cost, open source in situ pump for marine and freshwater sampling being d
 ### Hardware
 <img src="docs/Pump_Photo_labeled.jpg" width=550 border=1>
 	
-We provide step-by-step instructions for the construction of the components of in_situ_pump at the following links: <a href="hardware/frame_assembly/frame_assembly.pdf">frame_essembly</a>, 
-<a href="hardware/pump_unit/Pump_Unit.pdf">pump_unit</a>, <a href="">electronics_assembly</a>, <a href="">filter_holder_assembly</a>, and <a href="hardware/wire_clamp/Wire_clamp.pdf">wire clamp</a>.  In addition,  
-we provide CAD files for manufacture of the <a href="">wire_clamps</a>.
+We provide step-by-step instructions for the construction of each component at the following links: <a href="hardware/frame_assembly/frame_assembly.pdf">frame_assembly</a>, 
+<a href="hardware/pump_unit/Pump_Unit.pdf">pump_unit</a>, <a href="">electronics_assembly</a>, and <a href="">filter_holder_assembly</a>. In addition,  
+we provide CAD files for manufacture of the <a href="hardware/wire_clamp/Wire_clamp.pdf">wire clamp</a>. 
 
 ### Software
 <table>

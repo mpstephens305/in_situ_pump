@@ -48,14 +48,14 @@ we provide CAD files for manufacture of the <a href="hardware/wire_clamp/Wire_cl
 ### Software
 <table>
 <TR>
-<TD style="width: 50%;">
+<TD styLe="width: 50%;">
 Pump operation is controlled by the Arduino sketch "teensy_pump_simple.ino". Prior to deployment, the user specifies the pump delay, pump duration, motor speed, and data filename. At the start of a deployment, the program is initialized, and then the countdown to pump start up (i.e., pump delay) begins. The motor then spins up and operates for the specified pump duration.  See the flowchart at the right for the full sequence.
 <a href="https://www.arduino.cc/en/software/">Arduino IDE</a>
 the <a href="https://www.pjrc.com/teensy/teensyduino.html")Teensyduino</a> add-on for Arduino IDE
 KurtE <a href="https://github.com/KurtE/MTP_Teensy")MTP_Teensy</a> library
 the <a href="https://github.com/bluerobotics/BlueRobotics_MS5837_Library">Blue Robotics_MS5837_Library</a>
 </TD>
-<TD style="width: 50%;">
+<TD styLe="width: 50%;">
 <img src="docs/Arduino_Pump_flow_chart.jpg" width=450 border=1>
 </td>
 </tr>

@@ -41,7 +41,7 @@
 <img src="docs/Pump_Photo_labeled.jpg" width=550 border=1>
 	
 For step-by-step build instructions for each component, use the following links: <a href="hardware/frame_assembly/frame_assembly.pdf">frame_assembly</a>, 
-<a href="hardware/pump_unit/Pump_Unit.pdf">pump_unit</a>, <a href="">electronics_assembly</a>, and <a href="">filter_holder_assembly</a>. In addition, we provide CAD files for manufacture of the <a href="hardware/wire_clamp/Wire_clamp.pdf">wire clamp</a>. 
+<a href="hardware/pump_unit/Pump_Unit.pdf">pump_unit</a>, <a href="hardware/electronics_assembly.pdf">electronics_assembly</a>, and <a href="">filter_holder_assembly</a>. In addition, we provide CAD files for manufacture of the <a href="hardware/wire_clamp/Wire_clamp.pdf">wire clamp</a>. 
 </td></tr></table>
 
 ### Software

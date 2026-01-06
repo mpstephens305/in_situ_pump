@@ -27,8 +27,8 @@ pump_unit 3D Printed Parts
 
 <P>
 <img src="pump_unit_BOM.jpg" width=750 border=1>
+</P>
 
-<P>
 ## Assembly (approximate time: 20 minutes):  
 1. Assemble the WetLink Penetrator with the motor cable following the instructions on the 
 Blue Robotics website. 
@@ -41,6 +41,7 @@ heat shrink tubing to the connections.
 7. Seat the Pump Head over the Impeller and onto Pump Body. 
 8. Secure Pump Head to Pump Base with four sets of ¼ inch screws, washers, and 
 wingnuts. 
+
 
 
 

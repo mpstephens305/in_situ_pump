@@ -34,13 +34,14 @@ pump_unit 3D Printed Parts
 Blue Robotics website. 
 2. Solder the banana connectors to the three conductors of the motor cable.  Then apply 
 heat shrink tubing to the connections. 
-3. Attach the motor to Pump Base with four M3 x 8mm screws. 
-4. Place the Pump Body over the motor. 
+3. Attach the motor to pump_base with four M3 x 8mm screws. 
+4. Place the pump_body over the motor. 
 5. Attach impeller to motor with two M3 x 8mm screws. 
-6. Insert O-ring into groove in Pump Body. 
-7. Seat the Pump Head over the Impeller and onto Pump Body. 
-8. Secure Pump Head to Pump Base with four sets of ¼ inch screws, washers, and 
+6. Insert O-ring into groove in pump_body. 
+7. Seat the pump_head over the pump_impeller and onto pump_body. 
+8. Secure pump_head to pump_base with four sets of ¼ inch screws, washers, and 
 wingnuts. 
+
 
 
 

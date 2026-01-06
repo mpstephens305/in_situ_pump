@@ -16,11 +16,11 @@
 
 <tr>
 <td align=center>
-<u>pump_unit - Exploded View</u></br>
+pump_unit - Exploded View</br>
 (Not shown: power cord, strainer, impeller screws, & O-ring)
 </td>
 <td align=center valign=top>
-<u>pump_unit 3D Printed Parts</u>
+pump_unit 3D Printed Parts
 </td>
 </tr>
 </table>
@@ -29,7 +29,7 @@
 <img src="pump_unit_BOM.jpg" width=750 border=1>
 
 <P>
-Assembly (approximate time: 20 minutes):  
+## Assembly (approximate time: 20 minutes):  
 1. Assemble the WetLink Penetrator with the motor cable following the instructions on the 
 Blue Robotics website. 
 2. Solder the banana connectors to the three conductors of the motor cable.  Then apply 
@@ -41,6 +41,7 @@ heat shrink tubing to the connections.
 7. Seat the Pump Head over the Impeller and onto Pump Body. 
 8. Secure Pump Head to Pump Base with four sets of ¼ inch screws, washers, and 
 wingnuts. 
+
 
 
 

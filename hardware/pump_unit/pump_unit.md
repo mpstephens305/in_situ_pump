@@ -1,6 +1,6 @@
 # pump_unit
  	 
-<P>The pump_unit consists of a Blue Robotics M200 subsea motor and 3D printed pump components (<I>pump_base</I>, <I>pump_housing</I>, <I>pump_impeller</I>, and <i>pump head</i>).  The motor is powered by the 14-cell battery pack and controlled by *Teensy* via the *Blue Robotics Basic ESC*, all of which are contained within the watertight enclosure.  A *Blue Robotics WetLink Penetrator* links the external motor with the internal power source.  The pump_unit is secured to the frame_baseplate with four M4 stainless steel screws.
+<P>The pump_unit consists of a <a href="https://bluerobotics.com/store/thrusters/t100-t200-thrusters/m200-motor/">Blue Robotics M200 subsea motor</a> and 3D printed pump components (<I>pump_base</I>, <I>pump_housing</I>, <I>pump_impeller</I>, and <i>pump head</i>).  The motor is powered by the 14-cell battery pack and controlled by <a href="https://www.pjrc.com/store/teensy41.html">Teensy 4.1</a> via the <a href="https://bluerobotics.com/store/thrusters/speed-controllers/besc30-r3/">Blue Robotics Basic ESC</a>, all of which are contained within the watertight enclosure.  A <a href="https://bluerobotics.com/store/cables-connectors/penetrators/wlp-vp/?attribute_bulkhead-size-seal-size-plug-compression-compatible-cable-diameter=M10+-+6.5+mm+-+LC+-+6.5+mm+%C2%B1+0.3+mm">Blue Robotics WetLink Penetrator</a> links the external motor with the internal power source.  The pump_unit is secured to the frame_baseplate with four M4 stainless steel screws.
 
 <table>
 <thead>
@@ -41,6 +41,7 @@ heat shrink tubing to the connections.
 7. Seat the Pump Head over the Impeller and onto Pump Body. 
 8. Secure Pump Head to Pump Base with four sets of ¼ inch screws, washers, and 
 wingnuts. 
+
 
 
 

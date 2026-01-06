@@ -16,8 +16,8 @@
 
 <tr>
 <td align=center>
-pump_unit - Exploded View</br>
-<font size="-1">(Not shown: power cord, strainer, impeller screws, & O-ring)</font>
+## pump_unit - Exploded View</br>
+### (Not shown: power cord, strainer, impeller screws, & O-ring)
 </td>
 <td align=center valign=top>
 pump_unit 3D Printed Parts 
@@ -41,6 +41,7 @@ heat shrink tubing to the connections.
 7. Seat the Pump Head over the Impeller and onto Pump Body. 
 8. Secure Pump Head to Pump Base with four sets of ¼ inch screws, washers, and 
 wingnuts. 
+
 
 
 

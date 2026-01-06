@@ -5,10 +5,10 @@
 <table>
 <thead>
 <tr>
-<th width="40%">
+<th>
 <img src="pump_assembly_Exploded_View.jpg" width=300>
 </th>
-<th width="60%">
+<th>
 <img src="pump_unit_3D_Parts.jpg" width=450>
 </th>
 </tr>
@@ -41,6 +41,7 @@ heat shrink tubing to the connections.
 7. Seat the Pump Head over the Impeller and onto Pump Body. 
 8. Secure Pump Head to Pump Base with four sets of ¼ inch screws, washers, and 
 wingnuts. 
+
 
 
 

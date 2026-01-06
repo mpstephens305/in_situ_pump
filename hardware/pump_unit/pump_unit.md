@@ -36,7 +36,7 @@ Blue Robotics website.
 heat shrink tubing to the connections. 
 3. Attach the motor to pump_base with four M3 x 8mm screws. 
 4. Place the pump_body over the motor. 
-5. Attach impeller to motor with two M3 x 8mm screws. 
+5. Attach pump_impeller to motor with two M3 x 8mm screws. 
 6. Insert O-ring into groove in pump_body. 
 7. Seat the pump_head over the pump_impeller and onto pump_body. 
 8. Secure pump_head to pump_base with four sets of ¼ inch screws, washers, and 
@@ -46,6 +46,7 @@ wingnuts.
 We use a resin printer to produce the pump_unit parts. We have also had success using water resistant filaments, such as PETG, with 100% infill.
 
 The 3D models including Solidworks and .STL files are available in the <a href="3D_models/">3D Models directory</a>.
+
 
 
 

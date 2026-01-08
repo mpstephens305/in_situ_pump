@@ -13,6 +13,16 @@
 <P>Note: The assembled 3-pin and 4-pin connectors will not fit through the M10 end cap holes. Therefore, it is recommended not to insert the wires into the plastic body until the component or penetrators has been mounted to the end cap.
 
 4. Mount the following components to the M10 x10 hole end cap: WetLink penetrators for the motor and flow sensor, Bar30 pressure sensor, red and green LEDs, two switches, Cobalt bulkhead connector (USB), pressure relief valve, and a blank penetrator.
+
+<table>
+<thead>
+<tr>
+<th width=455>
+<img src="end_cap_components.jpg" width=450>
+</th>
+</tr>
+</thead>
+
 5. Insert each wire into the appropriate JST connector body.  
 6. Plug in the following components to the front of the Assembled Mainboard: red and green LEDS, two switches, Bar30 Pressure sensor, Cobalt connector wires (USB connection), Flow sensor, and ESC connector.
 7. Insert the ESC power leads (thick red and black wires) into the front screw terminal block, and tighten them down.

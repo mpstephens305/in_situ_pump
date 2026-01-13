@@ -34,5 +34,17 @@ hex nuts, and split lock washers.
 3. Attach the threaded rod end bolt to the lower plate using a stainless-steel dowel. 
 4.  Place the oversized steel washer and eye bolt onto the threaded rod end bolt. 
 
-<P>CAD drawings (dimensions in inches):
+### CAD drawings (dimensions in inches):
 
+<table>
+<tr>
+<td>
+<img src="wire_clamp_Top_Drawing.jpg" width=450>
+</td>
+</tr>
+<tr>
+<td align=center>
+Upper Plate
+</td>
+</tr>
+</table>

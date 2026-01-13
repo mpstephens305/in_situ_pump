@@ -10,7 +10,7 @@ x 4.5 x 1.25 inches.  The clamps are attached to the wire clamp mounts on the fr
 <table>
 <tr>
 <td width="50%">
-<img src="wire_clamp_Solidworks_assembly.jpg" width=450 alt="wire_clamp_Solidworks_assembly.jpg">
+<img src="wire_clamp_Solidworks_assembly.jpg" width=450>
 </td>
 <td width="50%">
 <img src="wire_clamp_Solidworks_assembly2.jpg" width=450>
@@ -25,7 +25,14 @@ wire_clamp, Solidworks assembly view
 </table>
 
 <P>
-
 <img src="wire_clamp_BOM.jpg" width=750 border=1>
 
+### Assembly (approximate time: 10 minutes):  
+1. Attach the lower plate to the frame wire clamp mounts using four socket head screws, 
+hex nuts, and split lock washers. 
+2. Attach the upper plate to the lower plate using a stainless-steel dowel. 
+3. Attach the threaded rod end bolt to the lower plate using a stainless-steel dowel. 
+4.  Place the oversized steel washer and eye bolt onto the threaded rod end bolt. 
+
+<P>CAD drawings (dimensions in inches):
 

@@ -67,6 +67,14 @@ The first ever deployments of the in_situ_pump were conducted  in the Gulf Strea
 	
 <img src="docs/Pump_deployment_Walton_Smith_cruise.jpg" width=250> | <img src="docs/Filter_change_Walton_Smith_Cruise.jpg" width=315> 
 
+## Presentations & Publications
+
+### AGU25, New Orleans, 11-19 December 2025
+
+<P>The in_situ_pump was introduced through a poster presentation in <a href="https://macgyver-sessions.github.io/">The MacGyver Sessions</a> at AGU's Annual Meeting. The poster can be accessed via <a href="https://zenodo.org/records/18157174">The MacGyver Sessions Zenodo site</a> as well as on the <a href="https://doi.org/10.22541/essoar.176662276.61585030/v1">ESS Open Archive</a>.
+
+
+
 ## Acknowledgements
 *This project is supported by the U.S.National Science Foundation (Grant # NSF-OCE-2446521). We are grateful for technical support and advice provided at Florida International University's Applied Research Center (FIU-ARC) from the following individuals: Dr Yipeng He, Theophile Pierre, Gabriel Cerioni, and Anthony Abrahao.  Emily Jackson and Sahaira Paz assisted with testing the device and operations on the South Florida cruise. We thank the captain and crew of research vessel F.G. Walton Smith. Photo credits: Emily Jackson and Clint Miller.*
 

@@ -39,7 +39,7 @@ hex nuts, and split lock washers.
 <table>
 <tr>
 <td>
-<img src="wire_clamp_Top_Drawing.jpg" width=450>
+<img src="wire_clamp_Top_drawing.jpg" width=450>
 </td>
 </tr>
 <tr>
@@ -48,3 +48,17 @@ Upper Plate
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td>
+<img src="wire_clamp_Bottom_drawing.jpg" width=450>
+</td>
+</tr>
+<tr>
+<td align=center>
+Lower Plate
+</td>
+</tr>
+</table>
+

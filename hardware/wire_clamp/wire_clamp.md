@@ -10,7 +10,7 @@ x 4.5 x 1.25 inches.  The clamps are attached to the wire clamp mounts on the fr
 <table>
 <tr>
 <td width="50%">
-<img src="wire_clamp_Solidworks_assembly.jpg" width=300 alt="wire_clamp_Solidworks_assembly.jpg">
+<img src="wire_clamp_Solidworks_assembly.jpg" width=450 alt="wire_clamp_Solidworks_assembly.jpg">
 </td>
 <td width="50%">
 <img src="wire_clamp_Solidworks_assembly2.jpg" width=450>
@@ -27,4 +27,5 @@ wire_clamp, Solidworks assembly view
 <P>
 
 <img src="wire_clamp_BOM.jpg" width=750 border=1>
+
 

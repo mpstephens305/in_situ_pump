@@ -20,6 +20,7 @@ x 4.5 x 1.25 inches.  The clamps are attached to the wire clamp mounts on the fr
 <tr>
 <td colspan=2 align=center>
 wire_clamp, Solidworks assembly view
+<P>The 3D models including Solidworks parts and assembly are available in the <a href="3D_Models/">wire_clamp 3D Models directory</a>.
 </td>
 </tr>
 </table>
@@ -61,5 +62,6 @@ Lower Plate
 </td>
 </tr>
 </table>
+
 
 

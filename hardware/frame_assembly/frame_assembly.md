@@ -5,7 +5,18 @@ watertight enclosure and pump unit, 2) a stainless-steel strut channel for mount
 holders, and 3) ¼-inch thick stainless plates for mounting the wire clamps.  The dimensions of 
 the frame are 24 x 12 x 16 inches.</P>
 
-###Assembly (approximate time: 4 hours):  
+<table>
+  <tr>
+    <td><img src=".jpg"></td>
+  </tr>
+  <tr>
+    <td align=center>frame_assembly</td>
+  </tr>
+ </table>
+
+<img src="frame_assembly_BOM.jpg">
+
+### Assembly (approximate time: 4 hours):  
 1. Prepare stainless steel rod members (dimensions given in figure below).  Bends are 3
 inch radius. Grind ends to a point for welding. 
 2. Weld members according to figures. 

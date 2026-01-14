@@ -1,8 +1,8 @@
 # frame_assembly
 <P>The frame, or cage, is constructed of welded 3/8-inch diameter corrosion resistant 316 stainless 
-steel rods.  Attached to this structure are 1) a ¼-inch thick stainless-steel plate for mounting the 
-watertight enclosure and pump unit, 2) a stainless-steel strut channel for mounting the filter 
-holders, and 3) ¼-inch thick stainless plates for mounting the wire clamps.  The dimensions of 
+steel rods.  Attached to this structure are a) a ¼-inch thick stainless-steel plate for mounting the 
+watertight enclosure and pump unit, b) a stainless-steel strut channel for mounting the filter 
+holders, and c) four ¼-inch thick stainless plates for mounting the wire clamps.  The dimensions of 
 the frame are 24 x 12 x 16 inches.</P>
 
 <table>

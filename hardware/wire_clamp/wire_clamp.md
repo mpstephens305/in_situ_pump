@@ -1,4 +1,4 @@
-# wire_clamp 
+# wire_clamp_assembly 
 
 <P>Two wire clamps are used to attach the frame to the hydro wire for deployment.  The book 
 clamp design consists of an upper and lower plate that are hinged using a stainless-steel dowel.  
@@ -62,6 +62,7 @@ Lower Plate
 </td>
 </tr>
 </table>
+
 
 
 

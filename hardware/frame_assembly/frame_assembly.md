@@ -7,7 +7,7 @@ the frame are 24 x 12 x 16 inches.</P>
 
 <table>
   <tr>
-    <td><img src=".jpg"></td>
+    <td><img src="frame_assembly.jpg"></td>
   </tr>
   <tr>
     <td align=center>frame_assembly</td>

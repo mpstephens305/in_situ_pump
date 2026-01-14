@@ -36,7 +36,7 @@ Weld the base plate to two lower cross members.
     <td><img src="base_plate_Sketch.jpg" width=700></td>
   </tr>
   <tr>
-    <td align=center>frame_assembly</td>
+    <td align=center>Sketch of base plate with M4 clearance hole placement.</td>
   </tr>
  </table>
 4. Place 8x M6 clearance holes for filter holder mounts in strut channel as shown in figure 

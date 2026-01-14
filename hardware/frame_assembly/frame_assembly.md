@@ -43,10 +43,10 @@ Weld the base plate to two lower cross members.
 below. Weld the channel to four vertical rods at back of frame.
 <table>
   <tr>
-    <td><img src="frame_assembly.jpg" width=500></td>
+    <td><img src="strut_channel_Sketch.jpg" width=700></td>
   </tr>
   <tr>
-    <td align=center>frame_assembly</td>
+    <td align=center>Sketch of strut channel with placement of M6 holes for filter holder mounts. </td>
   </tr>
  </table>
 5. Prepare the wire clamp mounts by cutting the ¼-inch by 1-inch stainless steel plate into 

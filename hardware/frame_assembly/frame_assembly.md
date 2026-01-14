@@ -22,10 +22,10 @@ inch radius. Grind ends to a point for welding.
 2. Weld members according to figures.
 <table>
   <tr>
-    <td><img src="frame_assembly.jpg" width=500></td>
+    <td><img src="frame_Sketch.jpg" width=500></td>
   </tr>
   <tr>
-    <td align=center>frame_assembly</td>
+    <td align=center>Sketch of frame showing dimensions (inches) of 3/8-inch stainless steel rod members.</td>
   </tr>
  </table>
 3. Place 12 x M4 clearance holes in stainless steel base plate as shown in figure below. 

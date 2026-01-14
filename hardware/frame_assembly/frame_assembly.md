@@ -55,9 +55,9 @@ clamp mounts as shown in figure below. Weld each mount to two horizontal rod
 members as shown in figure above.
 <table>
   <tr>
-    <td><img src="frame_assembly.jpg" width=500></td>
+    <td><img src="wire_clamp_mount_Sketch.jpg" width=500></td>
   </tr>
   <tr>
-    <td align=center>frame_assembly</td>
+    <td align=center>Sketch of wire clamp mount with M10 clearance hole placement.</td>
   </tr>
  </table>

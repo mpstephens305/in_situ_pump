@@ -30,9 +30,10 @@ inch radius. Grind ends to a point for welding.
  </table>
 3. Place 12 x M4 clearance holes in stainless steel base plate as shown in figure below. 
 Weld the base plate to two lower cross members.
-<table>
+<p>
+  <table>
   <tr>
-    <td><img src="base_plate_Sketch.jpg" width=500></td>
+    <td><img src="base_plate_Sketch.jpg" width=700></td>
   </tr>
   <tr>
     <td align=center>frame_assembly</td>

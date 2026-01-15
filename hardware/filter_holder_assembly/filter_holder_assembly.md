@@ -16,3 +16,17 @@ The filter_holder_assembly provides a way to secure the filter holders to the fr
 We use PETG filament with 100% infill to produce the filter_holder_mount_parts and the flow_meter_anti_rotation_bracket_part. 
 
 The 3D models including .STEP and .STL files are available in the <a href="3D_models/">3D Models directory</a>.
+<P>
+  <table>
+    <tr>
+      <td>
+        <img src="flow_meter_anti_rotation_bracket.jpg" width=600>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
+        flow_meter_anti_rotation_bracket
+      </td>
+    </tr>
+  </table>
+</P>

@@ -11,6 +11,6 @@ The filter_holder_assembly <a href="https://assuredautomation.com/WM-PD/">Assure
 5.	Then, use vinyl tubing to connect the outlet of the pump_unit_assembly to the inlet of the first filter holder (barbed fittings on each).
 
 ### 3D Printed Parts
-We use PETG filament with 100% infill to produce the filter_holder_mounts and the flow_meter_anti_rotation_bracket. 
+We use PETG filament with 100% infill to produce the filter_holder_mount_parts and the flow_meter_anti_rotation_bracket_part. 
 
 The 3D models including .STEP and .STL files are available in the <a href="3D_Models/">3D Models directory</a>.

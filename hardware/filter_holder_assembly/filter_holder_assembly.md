@@ -20,12 +20,30 @@ The 3D models including .STEP and .STL files are available in the <a href="3D_mo
   <table>
     <tr>
       <td>
-        <img src="flow_meter_anti_rotation_bracket.jpg" width=600>
+        <img src="filter_holder_mount_part_Top.jpg" width=350>
+      </td>
+      <td>
+        <img src="filter_holder_mount_part_Bottom.jpg" width=350>
+      </td>
+    </tr>
+    <tr>
+      <td align=center colspan=2>
+        filter_holder_mount_part
+      </td>
+    </tr>
+  </table>
+</P>
+
+<P>
+  <table>
+    <tr>
+      <td>
+        <img src="flow_meter_anti_rotation_bracket_part.jpg" width=600>
       </td>
     </tr>
     <tr>
       <td align=center>
-        flow_meter_anti_rotation_bracket
+        flow_meter_anti_rotation_bracket_part
       </td>
     </tr>
   </table>

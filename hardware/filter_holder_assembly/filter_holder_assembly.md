@@ -1,6 +1,8 @@
 # filter_holder_assembly
-The filter_holder_assembly <a href="https://assuredautomation.com/WM-PD/">Assured Automation mechanical flow meter</a>, <a href="https://www.bulkreefsupply.com/mini-brs-reactor-refillable-cartridge-hard-shell.html">Bulk Reef Supply</a>,
-<a href="https://www.pentair.com/en-us/water-treatment-components/filter-housings/traditional_slim_line_series.html">Pentek</a>
+The filter_holder_assembly provides a way to secure the filter holders to the frame_assembly. 
+<p>Our setup, designed for Beryllium-7 sampling, includes three <a href="https://www.pentair.com/en-us/water-treatment-components/filter-housings/traditional_slim_line_series.html">Pentek Slim Line 5-inch filter holders</a> in series. The first holder contains a 1-micron drop-in water filter to capture particulates, and the next two holders contain iron-impregnated acrylic fibers contained within refillable filter cartidges sold by <a href="https://www.bulkreefsupply.com/mini-brs-reactor-refillable-cartridge-hard-shell.html">Bulk Reef Supply</a>. Seawater is pushed through the three filters by the pump_unit_assembly and exits through a mechanical flow meter sold by <a href="https://assuredautomation.com/WM-PD/">Assured Automation mechanical flow meter</a>.
+<P>The design is readily adaptable to accomodate other sampling needs. For example, the suction end of the pump_unit_assembly can be attached to the end of the series to pull rather than push water through the filters. It can also be adapted for other filter types (e.g. GF/F) and filter holders.
+
 <P><img src="filter_holder_assembly_BOM.jpg"></P>
 
 ### Assembly (approximate time: 30 minutes)

@@ -3,11 +3,11 @@
 The Electronics Assembly consists a Blue Robotics watertight enclosure with an end cap which mounts the sensors, indicators, penetrators, switches, and connector. The watertight enclosure also houses the PCB and power supply. The assembly is secured to the frame’s Base Plate with watertight enclosure clamps.
 
 > [!NOTE]
-> The instructions and files here are for the 100mm (4-inch) diameter enclosure.
+> The instructions and files provided are for the 100mm (4-inch) diameter enclosure.
 
 ## Assembly (approximate time: 2 hours):  
 > [!IMPORTANT]
-> Recommended tools and supplies: Blue Robotics WetLink Bulkhead Wrench, adjustable wrench, bench vise, wire strippers, ratcheting crimping tool for JST connectors.
+> **Recommended tools and supplies**: Blue Robotics WetLink Bulkhead Wrench, adjustable wrench, bench vise, wire strippers, ratcheting crimping tool for JST connectors.
 
 1. Mount the endcaps to the O-ring sealing flanges using the included face seal O-ring and end cap screws. 
 2. Prepare each wire by trimming it to ≈ 10cm, stripping the end, and crimping on a female pin connector.
@@ -18,14 +18,27 @@ The Electronics Assembly consists a Blue Robotics watertight enclosure with an e
 
 4. Mount the following components to the M10 x10 hole end cap: WetLink penetrators for the motor and flow sensor, Bar30 pressure sensor, red and green LEDs, two switches, Cobalt bulkhead connector (USB), pressure relief valve, and a blank penetrator.
 
-  <img src="end_cap_components.jpg" alt="Endcap with components mounted" width="40%">
+  <P>
+  <table>
+    <tr>
+      <td align=center>
+        <img src="end_cap_components.jpg" width=400>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
+        M10 x10 hole end cap with mounted components.
+      </td>
+    </tr>
+  </table>
+</P>
  
-6. Insert each wire into the appropriate JST connector body.  
-7. Plug in the following components to the front of the Assembled Mainboard: red and green LEDS, two switches, Bar30 Pressure sensor, Cobalt connector wires (USB connection), Flow sensor, and ESC connector.
-8. Insert the ESC power leads (thick red and black wires) into the front screw terminal block, and tighten them down.
-9. Solder the banana connectors to the three conductors of the motor cable.  Then apply heat-shrink tubing to the connection.
-10. Insert the three banana connector male leads from the E200 motor into the matching color female leads from the ESC. 
-11. Screw four M3x60mm brass hex spacers into the mounting holes in the sealing flange.
+5. Insert each wire into the appropriate JST connector body.  
+6. Plug in the following components to the front of the Assembled Mainboard: red and green LEDS, two switches, Bar30 Pressure sensor, Cobalt connector wires (USB connection), Flow sensor, and ESC connector.
+7. Insert the ESC power leads (thick red and black wires) into the front screw terminal block, and tighten them down.
+8. Solder the banana connectors to the three conductors of the motor cable.  Then apply heat-shrink tubing to the connection.
+9. Insert the three banana connector male leads from the E200 motor into the matching color female leads from the ESC. 
+10. Screw four M3x60mm brass hex spacers into the mounting holes in the sealing flange.
 
 
 ## Bill of Materials (BOM)
@@ -53,6 +66,8 @@ WetLink penetrator, blank, M10 thread | $6.00 | 1 | [link](https://bluerobotics.
 | Brass screws, M3 x 6mm, Phillips head | $0.27 | 8 | [link](https://www.amazon.com/uxcell-Phillips-Furniture-Equipment-Electronics/dp/B09Q38GZZN/ref=sr_1_4?crid=184BPVP9BNG1X&dib=eyJ2IjoiMSJ9.IJBHP2rq4AgtLDN5oCl3AqGy7Fn1tZ0wmTOkkxnrgDoZ7vmkiMG14kHNul4D1-zs7FEJGRJI56RaWLy9OuyneusVexQEthUGzvTqvXdkvoK-Pw0g2u0iVn-eD-KT2lxZjyLjXE3EDFa6dGPl0kRmASWwVlYvvzjE3TfJg4Bqyuu-XSBbVvYIjY8mMq03rzz_LhWSI-fOI8jv9TBVCWmjmneigjf4mchOVRVOXFBH3ug.E5GpUrekTRD00vy6FVN9tfq20SI3UdUhF-DyMozzXBA&dib_tag=se&keywords=brass%2Bscrews%2C%2Bm3%2Bx%2B6mm%2C%2Bphillips%2Bhead&qid=1768593983&sprefix=%2Caps%2C125&sr=8-4&th=1) |
 | Wire Ferrules Terminals | ≈$0.01 | 4 | [link](https://www.amazon.com/Fidioto-Terminals-Connector-Insulated-Industrial/dp/B0CN13VRD3/ref=sr_1_5_sspa?crid=3GBGEKZEJ5P3&dib=eyJ2IjoiMSJ9.JGGEuEFkSuGA9e78r39gqa48UTbvyJxJBm1Fa9CksSAkYlOsQSTFNwN8GF1iajj3TCudcbM8b3cGIsYh2KAi4-NaIOPq1IfNeKS50liACwbENH0kt3VwYD_bm10zz6FsdoYpH2vtlh1mP194CfZeQzRFzD7ykqUngn3hzGUsixqJeBlVvnKi33mrnUdJyBbmznwtlsgvqTgw-FezQcGJZAmDfbGY9A8cdgOWxOF8pBA.IKKG6BqB3j2W_g_Cihp-V9lrgCpLSynObZT4j7-tOS0&dib_tag=se&keywords=wire%2Bferrules&qid=1768593714&sprefix=wire%2Bferr%2Caps%2C154&sr=8-5-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1) |
 
+| Total Cost: |
+| --- |
 
 ### 3D Printed Parts
 We use a 3D printer to produce the battery holder with 100% infill.

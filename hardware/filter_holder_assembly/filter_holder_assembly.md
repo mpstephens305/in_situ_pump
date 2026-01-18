@@ -15,7 +15,7 @@ The filter_holder_assembly provides a way to secure the filter holders to the fr
 <P>
   <table>
 <tr>
-  <td align=center><img src="flowmeter_anti_rotation_bracket_part.jpg" width=425>
+  <td align=center><img src="flowmeter_anti_rotation_bracket_part.jpg" width=325>
   </td>
 </tr>
     <tr>

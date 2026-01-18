@@ -11,7 +11,18 @@ The filter_holder_assembly provides a way to secure the filter holders to the fr
 3.	For the third filter holder: First, screw the straight, stainless steel male connector into the female elbow reducer, and screw the straight connector into the filter holder outlet using Teflon tape. Next, align the slots in the flow_meter_anti_rotation_bracket_part with the mounting holes in the filter_holder_mount_part, then attach those parts to the filter holder using four M4x40 mm screws and washers. Finally, attach the flowmeter to the elbow reducer (the flowmeter should be mounted vertically).
 4.	The filter holders can now be attached in series using vinyl tubing and mounted to the strut channel of the frame_assembly using six M6x45 mm stainless steel socket head screws, split washers, and hex nuts.
 5.	Then, use vinyl tubing to connect the outlet of the pump_unit_assembly to the inlet of the first filter holder (barbed fittings on each).
-
+<P>
+  <table>
+<tr>
+  <td align=center><img src="flowmeter_anti_rotation_bracket_part.jpg>
+  </td>
+</tr>
+    <tr>
+  <td align=center>flowmeter_anti_rotation_bracket_part installed.
+  </td>
+</tr>
+  </table>
+</P>
 ### 3D Printed Parts
 We use PETG filament with 100% infill to produce the filter_holder_mount_parts and the flow_meter_anti_rotation_bracket_part. 
 

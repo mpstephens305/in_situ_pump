@@ -15,7 +15,7 @@ The filter_holder_assembly provides a way to secure the filter holders to the fr
 <P>
   <table>
 <tr>
-  <td align=center><img src="flowmeter_anti_rotation_bracket_part.jpg" width=600>
+  <td align=center><img src="flowmeter_anti_rotation_bracket_part.jpg" width=425>
   </td>
 </tr>
     <tr>
@@ -51,7 +51,7 @@ The 3D models including .STEP and .STL files are available in the <a href="3D_mo
   <table>
     <tr>
       <td>
-        <img src="flow_meter_anti_rotation_bracket_part.jpg" width=425>
+        <img src="flow_meter_anti_rotation_bracket_part.jpg" width=500>
       </td>
     </tr>
     <tr>

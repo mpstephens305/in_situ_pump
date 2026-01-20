@@ -1,4 +1,4 @@
-# Software
+# software
 
 The software consists of a code which is written on the Arduino IDE and then uploaded to the
 Teensy 4.1 microcontroller. This code has additional libraries which have to be downloaded to
@@ -8,7 +8,8 @@ preferred period of time. During the run, it will pump water through the three f
 the flow rate.
 
 ## Download Instructions
-Step 1: Installing Arduino IDE
+
+### Step 1: Installing Arduino IDE
 To write the code and upload it to the Teensy 4.1, you will have to use a free software called
 Arduino IDE.
 1. Visit https://www.arduino.cc/en/software/ and scroll down until you see Arduino IDE and
@@ -16,7 +17,8 @@ download the latest release.
 2. Once download finishes, right-click on the file and select “run as administrator”.
 3. Follow the pop-ups and select your preferences, then click install.
 4. Once installed, open the application.
-Step 2: Install required libraries
+
+### Step 2: Install required libraries
 To be able to program different components which will be used in the pump, we will need to
 install various libraries, Teensyduino to be able to code onto the Teensy board, BlueRobotics
 MS5837 Library for the Bar30 pressure sensor, and MTP_Teensy to download the data log after
@@ -37,7 +39,8 @@ https://github.com/KurtE/MTP_Teensy
 9. Click on the green “Code” button and select “Download ZIP”.
 10. Once the ZIP file has been downloaded, open your file explorer.
 11. Copy the MTP_Teensy file into your Arduino > libraries folder.
-Step 3: Upload Code
+
+### Step 3: Upload Code
 The code to run the pump is provided in a .ino file to open on Arduino IDE and upload to the
 board. To find this file, go to the GitHub repository, click on the software folder and download
 the teensy_pump_simple.ino file. After downloaded, follow the steps below to upload.
@@ -50,7 +53,8 @@ enclosure end cap.
 where the Teensy is connected.
 6. Go back to main window and click “Upload” (the arrow pointing to the right on the top
 left of the window).
-Step 4: Retrieving Data
+
+### Step 4: Retrieving Data
 Once you have run the pump you can retrieve data and download it to your computer. The data
 includes, date, run time, voltage and current usage, gallons pumped, PWM speed, and depth
 (meters).

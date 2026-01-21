@@ -14,15 +14,14 @@ The Mainboard contains the [Teensy 4.1](https://www.pjrc.com/store/teensy41.html
 1.	Insert pin headers, battery holder, JST-XH connectors, screw terminal block connectors, voltage regulator, and current sensor to PCB board.
 2.	Solder all pins.
 3.	Insert Teensy 4.1 with Micro SD into headers.
-4.	Insert battery.
-
+4.	Insert coin battery.
 
 
 
 ## Bill of Materials (BOM)
 | Item | Loc. | Cost | Qty | Supplier | Link |
 | --- | --- | --- | --- | --- |
-| Teensy 4.1 (with pins) | Teensy4.1 | $40.00 | 1 | Amazon | [link]([https://bluerobotics.com/store/watertight-enclosures/wte-vp/](https://www.amazon.com/s?k=teensy+4.1&crid=3K3J841E8T17Q&sprefix=teensy+4.1%2Caps%2C162&ref=nb_sb_noss_1)) |
+| Teensy 4.1 (with pins) | Teensy4.1 | $40.00 | 1 | Amazon | [link](https://www.amazon.com/s?k=teensy+4.1&crid=3K3J841E8T17Q&sprefix=teensy+4.1%2Caps%2C162&ref=nb_sb_noss_1) |
 | Single row PCB female pin headers, 2.54 mm pitch | $0.05 | 2 | Amazon | [link](https://bluerobotics.com/store/watertight-enclosures/wte-vp/) |
 | End cap, blank, 100 mm dia., aluminum | $34.00 | 1 | Blue Robotics | [link](https://bluerobotics.com/store/watertight-enclosures/wte-vp/) |
 | End cap, 10 X M10 holes, 100 mm dia., aluminum | $42.00 | 1 | Blue Robotics | [link](https://bluerobotics.com/store/watertight-enclosures/wte-vp/) |

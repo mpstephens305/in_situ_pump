@@ -41,7 +41,7 @@
 <img src="docs/Pump_Photo_labeled.jpg" width=550 border=1>
 	
 For step-by-step build instructions for each component, use the following links: <a href="hardware/frame_assembly/frame_assembly.md">frame_assembly</a>, 
-<a href="hardware/pump_unit/pump_unit.md">pump_unit_assembly</a>, <a href="hardware/electronics_assembly/electronics_assembly.pdf">electronics_assembly</a> (including the <a href="hardware/electronics_assembly/pcb_mainboard.pdf">pcb mainboard_assembly</a> and the <a href="hardware/electronics_assembly/battery_holder_assembly.pdf">battery_holder_assembly</a>), and the <a href="hardware/filter_holder_assembly/filter_holder_assembly.md">filter_holder_assembly</a>. In addition, we provide CAD files for manufacture of the <a href="hardware/wire_clamp/wire_clamp.md">wire_clamp_assembly</a>. 
+<a href="hardware/pump_unit/pump_unit.md">pump_unit_assembly</a>, <a href="hardware/electronics_assembly/electronics_assembly.md">electronics_assembly</a> (including the <a href="hardware/electronics_assembly/pcb_mainboard.pdf">pcb mainboard_assembly</a> and the <a href="hardware/electronics_assembly/battery_holder_assembly.pdf">battery_holder_assembly</a>), and the <a href="hardware/filter_holder_assembly/filter_holder_assembly.md">filter_holder_assembly</a>. In addition, we provide CAD files for manufacture of the <a href="hardware/wire_clamp/wire_clamp.md">wire_clamp_assembly</a>. 
 </td></tr></table>
 
 ### Software

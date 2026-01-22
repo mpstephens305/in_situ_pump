@@ -1,6 +1,8 @@
 # software
 
-<a href="teensy_pump_simple.ino">teensy_pump_simple.ino</a> The software consists of a code which is written on the Arduino IDE and then uploaded to the
+The Atrduino sketch <a href="teensy_pump_simple.ino">teensy_pump_simple.ino</a> diretcs the automatic operation of the pump. Prior to deployment, the user  specifies the startDelay, pumpTime, startupPWM, and data filename. Then, when the program is activated, pumping begins after startDelay (seconds), operates at a speed corresponding to startupPWM (microseconds), and stops after pumpTime (seconds). Data is recorded every minute to filename.dat.  
+
+The software consists of a code which is written on the Arduino IDE and then uploaded to the
 Teensy 4.1 microcontroller. This code has additional libraries which have to be downloaded to
 operate some of the components like the Teensy and the Bar30 Pressure Sensor.
 The purpose of the code is to run the pump autonomously when turned on at a set speed for the

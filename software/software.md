@@ -1,6 +1,6 @@
 # software
 
-The Atrduino sketch <a href="teensy_pump_simple.ino">teensy_pump_simple.ino</a> diretcs the automatic operation of the pump. Prior to deployment, the user  specifies the following variables: startDelay, pumpTime, startupPWM, and data filename. Then, when the program is activated, pumping begins after startDelay (seconds), operates at a speed corresponding to startupPWM (microseconds), and stops after pumpTime (seconds). Data is recorded every minute to filename.dat.  
+The Atrduino sketch <a href="teensy_pump_simple.ino">teensy_pump_simple.ino</a> directs the automatic operation of the pump. Prior to deployment, the user  specifies the following variables: startDelay, pumpTime, startupPWM, and data filename. Then, when the program is activated, pumping begins after startDelay (seconds), operates at a speed corresponding to startupPWM (microseconds), and stops after pumpTime (seconds). Data is recorded every minute to filename.dat.  
 
 Given below are step-by-step instructions for installing the required software, pump operation, and data retrieval.
 

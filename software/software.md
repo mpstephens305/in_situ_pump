@@ -2,18 +2,13 @@
 
 The Atrduino sketch <a href="teensy_pump_simple.ino">teensy_pump_simple.ino</a> diretcs the automatic operation of the pump. Prior to deployment, the user  specifies the following variables: startDelay, pumpTime, startupPWM, and data filename. Then, when the program is activated, pumping begins after startDelay (seconds), operates at a speed corresponding to startupPWM (microseconds), and stops after pumpTime (seconds). Data is recorded every minute to filename.dat.  
 
-The software consists of a code which is written on the Arduino IDE and then uploaded to the
-Teensy 4.1 microcontroller. This code has additional libraries which have to be downloaded to
-operate some of the components like the Teensy and the Bar30 Pressure Sensor.
-The purpose of the code is to run the pump autonomously when turned on at a set speed for the
-preferred period of time. During the run, it will pump water through the three filters and measure
-the flow rate.
+Given below are step-by-step instructions for installing the required software, pump operation, and data retrieval.
 
 ## Download Instructions
 
 ### Step 1: Installing Arduino IDE
 To write the code and upload it to the Teensy 4.1, you will have to use a free software called
-Arduino IDE.
+Arduino Integrated Development Environment (*Arduino IDE*).
 1. Visit https://www.arduino.cc/en/software/ and scroll down until you see Arduino IDE and
 download the latest release.
 2. Once download finishes, right-click on the file and select “run as administrator”.

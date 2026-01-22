@@ -6,7 +6,7 @@ Given below are step-by-step instructions for installing the required software, 
 
 ## Download Instructions
 
-### Step 1: Installing Arduino IDE
+### Step 1: Install *Arduino IDE*
 To write the code and upload it to the Teensy 4.1, you will have to use a free software called
 Arduino Integrated Development Environment (*Arduino IDE*).
 1. Visit https://www.arduino.cc/en/software/ and scroll down until you see Arduino IDE and

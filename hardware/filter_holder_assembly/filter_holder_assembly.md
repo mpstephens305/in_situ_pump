@@ -38,7 +38,7 @@ The filter_holder_assembly provides a way to secure the filter holders to the fr
 </P>
 
 ### 3D Printed Parts
-We use PETG filament with 100% infill to produce the filter_holder_mount_parts and the flow_meter_anti_rotation_bracket_part. 
+We use PETG filament with 100% infill to produce the filter_holder_mount_parts and the flow_meter_anti_rotation_bracket_part. The filter_gasket_part is printed with TPU filament. 
 
 The 3D models including .STEP and .STL files are available in the <a href="3D_models/">3D Models directory</a>.
 <P>

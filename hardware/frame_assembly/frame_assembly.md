@@ -48,7 +48,7 @@ below. Weld the channel to four vertical rods at back of frame.
     <td align=center>Sketch of strut channel with placement of M6 holes for filter holder mounts. </td>
   </tr>
  </table>
-5. Prepare the wire clamp mounts by cutting the ¼-inch by 1-inch stainless steel plate into 
+5. Prepare the wire clamp mounts by cutting the ¼-inch by 1 1/4-inch stainless steel plate into 
 5-inch lengths (4 pieces needed). Place two M10 clearance holes in each of the four wire 
 clamp mounts as shown in figure below. Weld each mount to two horizontal rod 
 members as shown in figure above.

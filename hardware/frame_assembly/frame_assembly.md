@@ -28,6 +28,15 @@ inch radius. Grind ends to a point for welding.
     <td align=center>Sketch of frame showing dimensions (inches) of 3/8-inch stainless steel rod members.</td>
   </tr>
  </table>
+2. Weld members according to figures.
+<table>
+  <tr>
+    <td><img src="frame_clamped.jpg" width=500></td>
+  </tr>
+  <tr>
+    <td align=center>Stainless steel rods clamped for welding.</td>
+  </tr>
+ </table>
 3. Trim the 3 x 24 inch stainless steel flat bar down to 22-inches in length.  Then place 12 x M4 clearance holes in the stainless steel base plate as shown in the figure below. The eight holes on the left are for mounting the two watertight enclosure clamps, and the four holes on the right are for mounting the pump_unit. Next, polish the plate with a flap disk, and then weld the base plate to two lower cross members.
 <p>
   <table>

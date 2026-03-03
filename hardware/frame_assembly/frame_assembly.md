@@ -28,7 +28,7 @@ inch radius. Grind ends to a point for welding.
     <td align=center>Sketch of frame showing dimensions (inches) of 3/8-inch stainless steel rod members.</td>
   </tr>
  </table>
-3. Trim the 3 x 24 inch stainless steel flat bar down to 22-inches in length.  Then place 12 x M4 clearance holes in stainless steel base plate as shown in figure below. The eight holes on the left are for mounting the watertight enclosure clamps, and the four holes on the right are for mounting the pump_unit. Next, polish the plate with a flap disk, and then weld the base plate to two lower cross members.
+3. Trim the 3 x 24 inch stainless steel flat bar down to 22-inches in length.  Then place 12 x M4 clearance holes in the stainless steel base plate as shown in the figure below. The eight holes on the left are for mounting the two watertight enclosure clamps, and the four holes on the right are for mounting the pump_unit. Next, polish the plate with a flap disk, and then weld the base plate to two lower cross members.
 <p>
   <table>
   <tr>

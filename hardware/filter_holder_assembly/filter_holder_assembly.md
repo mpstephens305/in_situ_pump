@@ -77,7 +77,7 @@ The 3D models including .STEP and .STL files are available in the <a href="3D_mo
   <table>
     <tr>
       <td>
-        <img src="filter_gasket_part.jpg" width=400>
+        <img src="filter_gasket_part.jpg" width=300>
       </td>
     </tr>
     <tr>

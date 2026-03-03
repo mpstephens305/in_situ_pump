@@ -19,7 +19,6 @@ the frame are 24 x 12 x 16 inches.</P>
 ### Assembly (approximate time: 4 hours):  
 1. Prepare stainless steel rod members (dimensions given in figure below).  Bends are 3
 inch radius. Grind ends to a point for welding. 
-2. Weld members according to figures.
 <table>
   <tr>
     <td><img src="frame_Sketch.jpg" width=500></td>

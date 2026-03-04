@@ -47,7 +47,7 @@ The filter_holder_assembly provides a way to secure the filter holders to the fr
 </P>
 <P>4.	The filter holders can now be attached in series using vinyl tubing and mounted to the strut channel of the frame_assembly using six M6x45 mm stainless steel socket head screws, split washers, and hex nuts.
 <P>5.	Then, use vinyl tubing to connect the outlet of the pump_unit_assembly to the inlet of the first filter holder (barbed fittings on each).
-<P>If you are using the Bulk Reef Supply refillable filter cartridges, we found that the included gasket does not always provide a sufficient seal against the inside top of the Pentek filter holder. For this reason, we designed a slightly larger replacement gasket, which can be 3D printed (See photos below).</P>   
+<P>If you are using the Bulk Reef Supply refillable filter cartridges, we found that the included gasket does not always provide a sufficient seal against the inside top of the Pentek filter holder. For this reason, we designed a slightly larger replacement gasket (filter_gasket_part), which can be 3D printed (see photos below).</P>   
 <P>
   <table>
     <tr>
@@ -70,7 +70,7 @@ The filter_holder_assembly provides a way to secure the filter holders to the fr
 </P>
 
 ### 3D Printed Parts
-We use PETG filament with 100% infill to produce the filter_holder_mount_parts and the flow_meter_anti_rotation_bracket_part. The filter_gasket_part is printed with TPU filament. 
+We use PETG filament with 100% infill to produce the filter_holder_mount_part and the flow_meter_anti_rotation_bracket_part. The filter_gasket_part is printed with the more flexible TPU filament. 
 
 The 3D models including .STEP and .STL files are available in the <a href="3D_models/">3D Models directory</a>.
 <P>

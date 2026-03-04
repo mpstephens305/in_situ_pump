@@ -39,12 +39,13 @@ heat shrink tubing to the connections.
 7. Seat the pump_head over the pump_impeller and onto pump_body. 
 8. Secure pump_head to pump_base with four sets of ¼ inch screws, washers, and 
 wingnuts.
-9. Screw the 1-inch threaded suction screen strainer into the pump inlet and the 1/2-inch tube fitting into the outlet.
+9. Screw the 1-inch threaded suction screen strainer into the pump inlet and the 1/2-inch tube fitting onto the outlet.
 
 ### 3D Printed Parts
 We use a resin printer to produce the pump_unit parts. We have also had success using water resistant filaments, such as PETG, with 100% infill.
 
 The 3D models including .STEP and .STL files are available in the <a href="3D_Models/">3D Models directory</a>.
+
 
 
 

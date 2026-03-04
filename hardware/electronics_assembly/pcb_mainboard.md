@@ -19,6 +19,7 @@ The Mainboard contains the [Teensy 4.1](https://www.pjrc.com/store/teensy41.html
 
 
 ## Bill of Materials (BOM)
+
 | Item | Loc. | Cost | Qty | Supplier | Link |
 | --- | --- | --- | --- | --- |
 | Teensy 4.1 (with pins) | Teensy4.1 | $40.00 | 1 | Amazon | [link](https://www.amazon.com/s?k=teensy+4.1&crid=3K3J841E8T17Q&sprefix=teensy+4.1%2Caps%2C162&ref=nb_sb_noss_1) |

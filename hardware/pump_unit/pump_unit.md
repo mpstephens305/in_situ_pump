@@ -24,7 +24,7 @@ pump_unit 3D Printed Parts
 </table>
 
 <P>
-<img src="pump_unit_BOM.jpg" width=750 border=1>
+<img src="pump_unit_BOM.jpg" width=650 border=1>
 </P>
 
 ### Assembly (approximate time: 20 minutes):  
@@ -44,6 +44,7 @@ wingnuts.
 We use a resin printer to produce the pump_unit parts. We have also had success using water resistant filaments, such as PETG, with 100% infill.
 
 The 3D models including .STEP and .STL files are available in the <a href="3D_Models/">3D Models directory</a>.
+
 
 
 

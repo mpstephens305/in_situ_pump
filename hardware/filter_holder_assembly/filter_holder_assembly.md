@@ -19,7 +19,7 @@ The filter_holder_assembly provides a way to secure the filter holders to the fr
 
 ### Assembly (approximate time: 30 minutes)
 1.	Expand the filter holder mounting holes diameter to accommodate the self-tapping thread inserts using a ¼-inch drill bit to a minimum depth of 10 mm (four holes per filter holder). Then screw in the self-tapping inserts until flush with top of filter holder.
-2.	<P>
+<P>
   <table>
 <tr>
   <td align=center><img src="threaded_inserts_placement.jpg" width=250>

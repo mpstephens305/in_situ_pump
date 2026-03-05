@@ -5,18 +5,17 @@
 
 <table>
 <tr>
-<td width=305>
+<td width=355>
 <img src="battery_holder_assembly_Top.jpg" width=350>
 </td>
-<td width=455>
+<td width=355>
 <img src="battery_holder_assembly_Bottom.jpg" width=350>
 </td>
 </tr>
 
 <tr>
 <td align=center>
-battery_holder_assembly top</br>
-(Not shown: power cord, strainer, impeller screws, & O-ring)
+battery_holder_assembly top
 </td>
 <td align=center valign=top>
 battery_holder_assembly bottom

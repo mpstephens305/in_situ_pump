@@ -25,6 +25,20 @@ battery_holder_assembly bottom
 
 ### Assembly (approximate time: 20 minutes): 
 1.	Attach two 55 mm brass hex spacers stacked on each other to the four middle holes on the top PCB and fasten them with screws.
+<P>
+  <table>
+    <tr>
+      <td>
+        <img src="battery_holder_screw_locations.jpg" width=300>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
+        Insert 135 mm screws through bottom PCB.
+      </td>
+    </tr>
+  </table>
+</P>
 2.	Pass the hex spacers through battery holder tube and load the tube with 14 C cell batteries.
 3.	Screw on the bottom PCB lining up the two conductive screw holes with the ones on the top PCB and fasten them with the 20 mm hex spacers.
 

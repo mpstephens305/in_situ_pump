@@ -41,7 +41,28 @@ battery_holder_assembly bottom
 <P>PCB: Battery Holder Bottom (front view)	PCB: Battery Holder Bottom (back view)
  The assembled Battery Holder Bottom PCB includes a screw terminal block connector for power output to the Bus Board. The board is physically attached to the Mainboard with brass hex spacers through the four mounting holes. The Battery Holder Bottom PCB can be used in both 4-inch and 5-inch diameter c-cell battery holder assemblies.</P>
 
- #### Assembly (approximate time: 15 minutes): 
+#### Assembly (approximate time: 15 minutes): 
 1.	Solder the screw terminal to the board.
 2.	Attach four springs to large vias (see photos below) using screws, locking washers, and nuts.
+3.	
+### 3D Printed Parts
+We use a resin printer to produce the pump_unit parts. We have also had success using water resistant filaments, such as PETG, with 100% infill.
+
+The 3D models including .STEP and .STL files are available in the <a href="3D_Models/">3D Models directory</a>.
+
+<P>
+  <table>
+    <tr>
+      <td>
+        <img src="battery_holder_part.jpg" width=300>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
+        battery_holder_part
+      </td>
+    </tr>
+  </table>
+</P>
+
 

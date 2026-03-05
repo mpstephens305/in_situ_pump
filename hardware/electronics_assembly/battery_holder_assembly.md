@@ -22,6 +22,8 @@ battery_holder_assembly bottom
 </tr>
 </table></p>
 
+<img src="Battery_holder_BOM.jpg">
+
 ### Assembly (approximate time: 20 minutes): 
 1.	Attach four M3x135 mm socket head screws with washers through the bottom PCB, as shown in the photo below.
 <P>

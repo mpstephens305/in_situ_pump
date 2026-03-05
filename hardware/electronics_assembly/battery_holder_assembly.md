@@ -3,7 +3,7 @@
 <P>The Battery Holder Assembly consists of a 3D printed battery holder tube sandwiched between two PCBs.  It is held together by four brass hex spacers (110 mm) through the blank holes (2) and open vias (2).  The spacers fastened through vias create a conductive pathway between the top and bottom PCBs.  
 </p>
 
-<table>
+<P><table>
 <tr>
 <td width=355>
 <img src="battery_holder_assembly_Top.jpg" width=350>
@@ -12,7 +12,6 @@
 <img src="battery_holder_assembly_Bottom.jpg" width=350>
 </td>
 </tr>
-
 <tr>
 <td align=center>
 battery_holder_assembly top
@@ -21,7 +20,7 @@ battery_holder_assembly top
 battery_holder_assembly bottom
 </td>
 </tr>
-</table>
+</table></p>
 
 ### Assembly (approximate time: 20 minutes): 
 1.	Attach four M3x135 mm socket head screws with washers through the bottom PCB, as shown in the photo below.
@@ -58,6 +57,24 @@ battery_holder_assembly bottom
 
 ### PCB: Battery Holder Top
 <P>The assembled Battery Holder Top PCB includes a push button and a red LED to check for proper assembly and battery strength.  The Battery Holder Top PCB can be used in both 4-inch and 5-inch diameter c-cell battery holder assemblies.</P>
+<P><table>
+<tr>
+<td width=355>
+<img src="battery_holder_top_PCB_front.jpg" width=350>
+</td>
+<td width=355>
+<img src="battery_holder_top_PCB_back.jpg" width=350>
+</td>
+</tr>
+<tr>
+<td align=center>
+Battery holder top PCB (front view)
+</td>
+<td align=center valign=top>
+Battery holder top PCB (back view)
+</td>
+</tr>
+</table></p>
 
 #### Assembly (approximate time: 15 minutes): 
 1.	Solder the LED, switch, and resistor to board.

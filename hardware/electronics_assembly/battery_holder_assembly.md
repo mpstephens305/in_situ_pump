@@ -80,6 +80,24 @@ Battery holder top PCB (back view)
 1.	Solder the LED, switch, and resistor to board.
 2.	Attach three springs to middle row of large vias using screws, locking washers, and nuts.
 3.	The 10 mm hex brass spacer is used in place of a nut, and serves as a handle for removing the PCB during battery replacement.
+<P><table>
+<tr>
+<td width=355>
+<img src="battery_holder_bottom_PCB_front.jpg" width=350>
+</td>
+<td width=355>
+<img src="battery_holder_bottom_PCB_back.jpg" width=350>
+</td>
+</tr>
+<tr>
+<td align=center>
+Battery holder bottom PCB (front view)
+</td>
+<td align=center valign=top>
+Battery holder bottom PCB (back view)
+</td>
+</tr>
+</table></p>
 
 ### PCB: Battery Holder Bottom
  	 

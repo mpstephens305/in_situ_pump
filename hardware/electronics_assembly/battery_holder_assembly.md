@@ -76,7 +76,7 @@ battery_holder_assembly bottom
 ### 3D Printed Parts
 We use a PLA filament to produce the battery_holder_part. 
 
-The 3D models for the C-cells battery holder are available in the <a href="3D_Models/">3D Models directory</a>.
+The 3D models for the C-cells battery holder (C-cells_105mm) are available in the <a href="3D_Models/">3D Models directory</a>.
 
 <P>
   <table>

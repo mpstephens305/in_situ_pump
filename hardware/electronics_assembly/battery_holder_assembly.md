@@ -24,7 +24,7 @@ battery_holder_assembly bottom
 </table>
 
 ### Assembly (approximate time: 20 minutes): 
-1.	Attach two 55 mm brass hex spacers stacked on each other to the four middle holes on the top PCB and fasten them with screws.
+1.	Attach four M3x135 mm socket head screws with washers through the bottom PCB, as shown in the photo below.
 <P>
   <table>
     <tr>

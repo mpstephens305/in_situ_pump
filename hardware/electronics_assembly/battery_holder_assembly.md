@@ -146,11 +146,9 @@ Battery holder bottom assembled PCB (back view)
 </tr>
 </table></p>
 
-### 3D Printed Parts
-We use a PLA filament to produce the battery_holder_part. 
-
-The 3D models for the C-cells battery holder (C-cells_105mm) are available in the <a href="3D_Models/">3D Models directory</a>.
-
+### 3D Printed Parts & Gerber Files
+We use a PLA filament to produce the battery_holder_part. The 3D models for the C-cells battery holder (C-cells_105mm) are available in the <a href="3D_Models/">3D Models directory</a>.
+<P>Gerber files for PCB production can be found in the <a href="Gerbers/">Gerber files directory</a></P>
 <P>
   <table>
     <tr>

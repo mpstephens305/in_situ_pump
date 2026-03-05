@@ -80,6 +80,12 @@ Battery holder top PCB (back view)
 1.	Solder the LED, switch, and resistor to board.
 2.	Attach three springs to middle row of large vias using screws, locking washers, and nuts.
 3.	The 10 mm hex brass spacer is used in place of a nut, and serves as a handle for removing the PCB during battery replacement.
+
+
+### PCB: Battery Holder Bottom
+ 	 
+<P>PCB: Battery Holder Bottom (front view)	PCB: Battery Holder Bottom (back view)
+ The assembled Battery Holder Bottom PCB includes a screw terminal block connector for power output to the Bus Board. The board is physically attached to the Mainboard with brass hex spacers through the four mounting holes. The Battery Holder Bottom PCB can be used in both 4-inch and 5-inch diameter c-cell battery holder assemblies.</P>
 <P><table>
 <tr>
 <td width=355>
@@ -98,11 +104,6 @@ Battery holder bottom PCB (back view)
 </td>
 </tr>
 </table></p>
-
-### PCB: Battery Holder Bottom
- 	 
-<P>PCB: Battery Holder Bottom (front view)	PCB: Battery Holder Bottom (back view)
- The assembled Battery Holder Bottom PCB includes a screw terminal block connector for power output to the Bus Board. The board is physically attached to the Mainboard with brass hex spacers through the four mounting holes. The Battery Holder Bottom PCB can be used in both 4-inch and 5-inch diameter c-cell battery holder assemblies.</P>
 
 #### Assembly (approximate time: 15 minutes): 
 1.	Solder the screw terminal to the board.

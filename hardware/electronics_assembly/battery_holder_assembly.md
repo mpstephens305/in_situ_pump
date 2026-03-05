@@ -125,7 +125,25 @@ Battery holder bottom PCB (back view)
 #### Assembly (approximate time: 15 minutes): 
 1.	Solder the screw terminal to the board.
 2.	Attach four springs to large vias (see photos below) using screws, locking washers, and nuts.
-3.	
+<P><table>
+<tr>
+<td width=355>
+<img src="battery_holder_bottom_assembled_PCB_front.jpg" width=350>
+</td>
+<td width=355>
+<img src="battery_holder_bottom_assembled_PCB_back.jpg" width=350>
+</td>
+</tr>
+<tr>
+<td align=center>
+Battery holder bottom assembled PCB (front view)
+</td>
+<td align=center valign=top>
+Battery holder bottom assembled PCB (back view)
+</td>
+</tr>
+</table></p>
+
 ### 3D Printed Parts
 We use a PLA filament to produce the battery_holder_part. 
 

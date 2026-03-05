@@ -46,9 +46,9 @@ battery_holder_assembly bottom
 2.	Attach four springs to large vias (see photos below) using screws, locking washers, and nuts.
 3.	
 ### 3D Printed Parts
-We use a resin printer to produce the pump_unit parts. We have also had success using water resistant filaments, such as PETG, with 100% infill.
+We use a PLA filament to produce the battery_holder_part. 
 
-The 3D models including .STEP and .STL files are available in the <a href="3D_Models/">3D Models directory</a>.
+The 3D models are available in the <a href="3D_Models/">3D Models directory</a>.
 
 <P>
   <table>

@@ -22,7 +22,7 @@ battery_holder_assembly bottom
 </tr>
 </table></p>
 
-<img src="Battery_holder_BOM.jpg">
+<img src="Images/Battery_holder_BOM.jpg">
 
 ### Assembly (approximate time: 20 minutes): 
 1.	Attach four M3x135 mm socket head screws with washers through the bottom PCB, as shown in the photo below.
@@ -30,7 +30,7 @@ battery_holder_assembly bottom
   <table>
     <tr>
       <td>
-        <img src="battery_holder_screw_locations.jpg" width=300>
+        <img src="Images/battery_holder_screw_locations.jpg" width=300>
       </td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@ battery_holder_assembly bottom
   <table>
     <tr>
       <td>
-        <img src="battery_placement.jpg" width=300>
+        <img src="Images/battery_placement.jpg" width=300>
       </td>
     </tr>
     <tr>
@@ -62,10 +62,10 @@ battery_holder_assembly bottom
 <P><table>
 <tr>
 <td width=355>
-<img src="battery_holder_top_PCB_front.jpg" width=350>
+<img src="Images/battery_holder_top_PCB_front.jpg" width=350>
 </td>
 <td width=355>
-<img src="battery_holder_top_PCB_back.jpg" width=350>
+<img src="Images/battery_holder_top_PCB_back.jpg" width=350>
 </td>
 </tr>
 <tr>
@@ -85,10 +85,10 @@ Battery holder top PCB (back view)
 <P><table>
 <tr>
 <td width=355>
-<img src="battery_holder_top_assembled_PCB_front.jpg" width=350>
+<img src="Images/battery_holder_top_assembled_PCB_front.jpg" width=350>
 </td>
 <td width=355>
-<img src="battery_holder_top_assembled_PCB_back.jpg" width=350>
+<img src="Images/battery_holder_top_assembled_PCB_back.jpg" width=350>
 </td>
 </tr>
 <tr>
@@ -108,10 +108,10 @@ Battery holder top assembled PCB (back view)
 <P><table>
 <tr>
 <td width=355>
-<img src="battery_holder_bottom_PCB_front.jpg" width=350>
+<img src="Images/battery_holder_bottom_PCB_front.jpg" width=350>
 </td>
 <td width=355>
-<img src="battery_holder_bottom_PCB_back.jpg" width=350>
+<img src="Images/battery_holder_bottom_PCB_back.jpg" width=350>
 </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ Battery holder bottom PCB (back view)
 <P><table>
 <tr>
 <td width=355>
-<img src="battery_holder_bottom_assembled_PCB_front.jpg" width=350>
+<img src="Images/battery_holder_bottom_assembled_PCB_front.jpg" width=350>
 </td>
 <td width=355>
 <img src="battery_holder_bottom_assembled_PCB_back.jpg" width=350>
@@ -153,7 +153,7 @@ We use a PLA filament to produce the battery_holder_part. The 3D models for the 
   <table>
     <tr>
       <td>
-        <img src="battery_holder_part.jpg" width=300>
+        <img src="Images/battery_holder_part.jpg" width=300>
       </td>
     </tr>
     <tr>

@@ -9,7 +9,7 @@ The Electronics Assembly consists a Blue Robotics watertight enclosure with an e
   <table>
     <tr>
       <td align=center>
-        <img src="Images/electronics_assembly_fully_assembled.jpg" width=300>
+        <img src="Images/electronics_assembly_fully_assembled.jpg" width=600>
       </td>
     </tr>
     <tr>
@@ -55,6 +55,56 @@ The Electronics Assembly consists a Blue Robotics watertight enclosure with an e
 9. Insert the three banana connector male leads from the E200 motor into the matching color female leads from the ESC. 
 10. Screw four M3x60mm brass hex spacers into the mounting holes in the sealing flange.
 
+<P>
+  <table>
+    <tr>
+      <td align=center>
+        <img src="Images/PCB_tray.jpg" width=400>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
+        PCB tray with mainboard PCB.
+      </td>
+    </tr>
+  </table>
+</P>
+
+<P>
+  <table>
+    <tr>
+      <td align=center>
+        <img src="Images/electronics_assembly_1.jpg" width=400>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
+        PCB tray with mainboard PCB.
+      </td>
+    </tr>
+  </table>
+</P>
+
+<P>
+  <table>
+    <tr>
+      <td align=center>
+        <img src="Images/electronics_assembly_front_view.jpg" width=400>
+      </td>
+      <td align=center>
+        <img src="Images/PCB_tray_rear_view.jpg" width=400>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
+        PCB tray front view.
+      </td>
+     <td align=center>
+        PCB tray rear view.
+      </td>
+    </tr>
+  </table>
+</P>
 
 ## Bill of Materials (BOM)
 | Item | Cost | Qty | Supplier | Link |

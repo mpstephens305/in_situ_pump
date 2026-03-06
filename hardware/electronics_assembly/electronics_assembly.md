@@ -137,5 +137,5 @@ WetLink penetrator, blank, M10 thread | $6.00 | 1 | Blue Robotics | [link](https
 ### 3D Printed Parts
 We use a 3D printer to produce the battery holder with 100% infill.
 
-The 3D models including .STEP and .STL files are available in the [3D models directory](../../hardware/pump_unit/3D_Models).
+The 3D models including .STEP and .STL files are available in the [3D models directory](3D_Models/).
 

@@ -5,6 +5,21 @@ The Electronics Assembly consists a Blue Robotics watertight enclosure with an e
 > [!NOTE]
 > The instructions and files provided are for the 100mm (4-inch) diameter enclosure.
 
+ <P>
+  <table>
+    <tr>
+      <td align=center>
+        <img src="Images/electronics_assembly_fully_assembled.jpg" width=650>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
+        electronics_assembly, fully assembled.
+      </td>
+    </tr>
+  </table>
+</P>
+
 ## Assembly (approximate time: 2 hours):  
 > [!IMPORTANT]
 > **Recommended tools and supplies**: Blue Robotics WetLink Bulkhead Wrench, adjustable wrench, bench vise, wire strippers, ratcheting crimping tool for JST connectors.

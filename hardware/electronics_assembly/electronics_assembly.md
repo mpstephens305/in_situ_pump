@@ -140,10 +140,10 @@ We print the PCB tray using PLA filament. The 3D model files are available in th
   <table>
     <tr>
       <td align=center>
-        <img src="Images/PCB_tray_solidworks.jpg" width=400>
+        <img src="Images/PCB_tray_solidworks.jpg" width=300>
       </td>
       <td align=center>
-        <img src="Images/PCB_tray_end.jpg" width=400>
+        <img src="Images/PCB_tray_end.jpg" width=300>
       </td>
     </tr>
     <tr>

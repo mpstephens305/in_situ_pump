@@ -6,10 +6,10 @@
 <P><table>
 <tr>
 <td width=355>
-<img src="battery_holder_assembly_Top.jpg" width=350>
+<img src="Images/battery_holder_assembly_Top.jpg" width=350>
 </td>
 <td width=355>
-<img src="battery_holder_assembly_Bottom.jpg" width=350>
+<img src="Images/battery_holder_assembly_Bottom.jpg" width=350>
 </td>
 </tr>
 <tr>

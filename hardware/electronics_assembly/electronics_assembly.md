@@ -9,7 +9,7 @@ The Electronics Assembly consists a Blue Robotics watertight enclosure with an e
   <table>
     <tr>
       <td align=center>
-        <img src="Images/electronics_assembly_fully_assembled.jpg" width=650>
+        <img src="Images/electronics_assembly_fully_assembled.jpg" width=300>
       </td>
     </tr>
     <tr>

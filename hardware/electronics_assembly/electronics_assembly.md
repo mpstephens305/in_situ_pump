@@ -136,4 +136,23 @@ WetLink penetrator, blank, M10 thread | $6.00 | 1 | Blue Robotics | [link](https
 
 ### 3D Printed Parts
 We print the PCB tray using PLA filament. The 3D model files are available in the [3D models directory](3D_Models/).
-
+<P>
+  <table>
+    <tr>
+      <td align=center>
+        <img src="Images/PCB_tray_solidworks.jpg" width=400>
+      </td>
+      <td align=center>
+        <img src="Images/PCB_tray_end.jpg" width=400>
+      </td>
+    </tr>
+    <tr>
+      <td align=center>
+        PCB tray.
+      </td>
+     <td align=center>
+        PCB tray end piece.
+      </td>
+    </tr>
+  </table>
+</P>

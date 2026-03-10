@@ -126,7 +126,7 @@ Battery holder bottom PCB (back view)
 
 #### Assembly (approximate time: 15 minutes): 
 1.	Solder the screw terminal to the board.
-2.	Attach four springs to large vias (see photos below) using M3x8mm screws, locking washers, and nuts.
+2.	Attach four springs to conductive pads (i.e., large vias using M3x8mm screws, locking washers, and nuts (see photos below).
 <P><table>
 <tr>
 <td width=355>

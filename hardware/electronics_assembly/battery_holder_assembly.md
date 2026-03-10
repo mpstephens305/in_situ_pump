@@ -51,7 +51,8 @@ battery_holder_assembly bottom
     </tr>
     <tr>
       <td align=center>
-        Slide the battery_holder_part over the 135mm screws and insert batteries.
+        Slide the battery_holder_part over the 
+        135mm screws and insert batteries.
       </td>
     </tr>
   </table>

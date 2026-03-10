@@ -25,7 +25,7 @@ battery_holder_assembly bottom
 <img src="Images/Battery_holder_BOM.jpg">
 
 ### Assembly (approximate time: 20 minutes): 
-1. Assemble the battery holder top and bottom PCBs
+1. Assemble the battery holder top and bottom PCBs (scroll down for PCB assembly instructions).
 1.	Attach four M3x135 mm socket head screws with washers through the bottom PCB, as shown in the photo below.
 <P>
   <table>
@@ -59,7 +59,7 @@ battery_holder_assembly bottom
 3.	Screw on the bottom PCB lining up the two conductive screw holes with the ones on the top PCB and fasten them with the 20 mm hex spacers.
 
 ### PCB: Battery Holder Top
-<P>The assembled Battery Holder Top PCB includes a push button and a red LED to check for proper assembly and battery strength.  The Battery Holder Top PCB can be used in both 4-inch and 5-inch diameter c-cell battery holder assemblies.</P>
+<P>The assembled batter_holder_top PCB includes a push button and red LED to check for proper assembly and battery strength.</P>
 <P><table>
 <tr>
 <td width=355>
@@ -81,8 +81,8 @@ Battery holder top PCB (back view)
 
 #### Assembly (approximate time: 15 minutes): 
 1.	Solder the LED, switch, and resistor to board.
-2.	Attach three springs to middle row of large vias using screws, locking washers, and nuts.
-3.	The 10 mm hex brass spacer is used in place of a nut, and serves as a handle for removing the PCB during battery replacement.
+2.	Attach three springs to middle row of conductor pads (i.e., the large vias) using M3x8mm screws, locking washers, and nuts.
+3.	For the center hole, an M3x20mm hex brass spacer, used in place of a nut, serves as a handle for removing the PCB during battery replacement.
 <P><table>
 <tr>
 <td width=355>

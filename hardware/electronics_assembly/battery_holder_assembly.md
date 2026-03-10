@@ -24,7 +24,7 @@ battery_holder_assembly bottom
 
 <img src="Images/Battery_holder_BOM.jpg">
 
-### Assembly (approximate time: 20 minutes): 
+### Assembly (approximate time: 30 minutes): 
 1. Assemble the battery holder top and bottom PCBs (scroll down for PCB assembly instructions).
 1.	Attach four M3x135 mm socket head screws with washers through the bottom PCB, as shown in the photo below.
 <P>
@@ -126,7 +126,7 @@ Battery holder bottom PCB (back view)
 
 #### Assembly (approximate time: 15 minutes): 
 1.	Solder the screw terminal to the board.
-2.	Attach four springs to large vias (see photos below) using screws, locking washers, and nuts.
+2.	Attach four springs to large vias (see photos below) using M3x8mm screws, locking washers, and nuts.
 <P><table>
 <tr>
 <td width=355>

@@ -56,7 +56,7 @@ battery_holder_assembly bottom
     </tr>
   </table>
 </P>
-3. Pass the ends of the 135mm screws through the holes in assembled top PCB and fasten the PCB down using four 20mm brass hex spacers.
+3. Pass the ends of the 135mm screws through the holes in the assembled top PCB and fasten the PCB down using four 20mm brass hex spacers. Note that the PCBs must be lined up such that the screws pass through the corresponding vias in both PCBs.
 
 ### PCB: Battery Holder Top
 <P>The assembled batter_holder_top PCB includes a push button and red LED to check for proper assembly and battery strength.</P>

@@ -26,7 +26,7 @@ battery_holder_assembly bottom
 
 ### Assembly (approximate time: 30 minutes): 
 1. Assemble the battery holder top and bottom PCBs (scroll down for PCB assembly instructions).
-1.	Attach four M3x135 mm socket head screws with washers through the bottom PCB, as shown in the photo below.
+1.	Attach four M3x135 mm socket head screws with washers and nuts through the bottom PCB, as shown in the photo below.
 <P>
   <table>
     <tr>
@@ -41,7 +41,7 @@ battery_holder_assembly bottom
     </tr>
   </table>
 </P>
-2.	Pass the hex spacers through battery holder tube and load the tube with 14 C cell batteries.
+2.	Pass the screws through the four holes in the battery holder tube and load the tube with 14 C cell batteries.
 <P>
   <table>
     <tr>
@@ -56,7 +56,7 @@ battery_holder_assembly bottom
     </tr>
   </table>
 </P>
-3.	Screw on the bottom PCB lining up the two conductive screw holes with the ones on the top PCB and fasten them with the 20 mm hex spacers.
+3. Pass the ends of the 135mm screws through the holes in assembled top PCB and fasten the PCB down using four 20mm brass hex spacers.
 
 ### PCB: Battery Holder Top
 <P>The assembled batter_holder_top PCB includes a push button and red LED to check for proper assembly and battery strength.</P>

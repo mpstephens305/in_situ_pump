@@ -1,6 +1,24 @@
 # pcb_mainboard
  	 
 The Mainboard contains the [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) microprocessor unit and direct connections for components including, PWM signal to the BLDC motor electronic speed controller (ESC), input from the flow sensor (Flow), pressure sensor (Pressure), and current sensor (Current Sensor), and output to the red LED indicating ready to run (LED1) and to the green LED indicating the start timer (LED2). A coin cell battery holder (BAT1) allows Teensy’s RTC to keep time while the unit is disconnected from external power. Teensy’s built-in microSD card allows for data logging. Teensy’s microUSB adapter is connected to a USB-A connector on the Mainboard, allowing external connection to a PC via the bulkhead connector on the end cap. The Mainboard is mounted on a tray between the end cap and Battery Holder Bottom with brass spacers through the four mounting holes.
+<P><table>
+<tr>
+<td width=355>
+<img src="Images/PCB_mainboard_assembled.jpg" width=350>
+</td>
+<td width=355>
+<img src="Images/PCB_mainboard_with_Teensy.jpg" width=350>
+</td>
+</tr>
+<tr>
+<td align=center>
+Assembled PCB mainboard
+</td>
+<td align=center valign=top>
+Assemble PCB mainboard with with teensy 4.1
+</td>
+</tr>
+</table></p>
 
 > [!NOTE]
 > Pins Int2 is unused as of the pump’s current state.

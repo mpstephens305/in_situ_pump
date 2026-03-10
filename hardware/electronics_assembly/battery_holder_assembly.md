@@ -60,24 +60,7 @@ battery_holder_assembly bottom
 
 ### PCB: Battery Holder Top
 <P>The assembled batter_holder_top PCB includes a push button and red LED to check for proper assembly and battery strength.</P>
-<P><table>
-<tr>
-<td width=355>
-<img src="Images/battery_holder_top_PCB_front.jpg" width=350>
-</td>
-<td width=355>
-<img src="Images/battery_holder_top_PCB_back.jpg" width=350>
-</td>
-</tr>
-<tr>
-<td align=center>
-Battery holder top PCB (front view)
-</td>
-<td align=center valign=top>
-Battery holder top PCB (back view)
-</td>
-</tr>
-</table></p>
+
 
 #### Assembly (approximate time: 15 minutes): 
 1.	Solder the LED, switch, and resistor to board.
@@ -105,24 +88,6 @@ Battery holder top assembled PCB (back view)
 ### PCB: Battery Holder Bottom
  	 
 <P>The assembled battery_holder_bottom PCB includes a screw terminal block connector for power output to pcb_mainboard and the motor. Four holes along the perimeter of the PCB allow it ot be mounted above pcb_mainboard using brass hex spacers and screws.</P>
-<P><table>
-<tr>
-<td width=355>
-<img src="Images/battery_holder_bottom_PCB_front.jpg" width=350>
-</td>
-<td width=355>
-<img src="Images/battery_holder_bottom_PCB_back.jpg" width=350>
-</td>
-</tr>
-<tr>
-<td align=center>
-Battery holder bottom PCB (front view)
-</td>
-<td align=center valign=top>
-Battery holder bottom PCB (back view)
-</td>
-</tr>
-</table></p>
 
 #### Assembly (approximate time: 15 minutes): 
 1.	Solder the screw terminal to the board.
@@ -163,5 +128,41 @@ We use PLA filament to produce the battery_holder_part. The 3D models (C-cells_1
     </tr>
   </table>
 </P>
+<P><table>
+<tr>
+<td width=355>
+<img src="Images/battery_holder_top_PCB_front.jpg" width=350>
+</td>
+<td width=355>
+<img src="Images/battery_holder_top_PCB_back.jpg" width=350>
+</td>
+</tr>
+<tr>
+<td align=center>
+Battery holder top PCB (front view)
+</td>
+<td align=center valign=top>
+Battery holder top PCB (back view)
+</td>
+</tr>
+</table></p>
+<P><table>
+<tr>
+<td width=355>
+<img src="Images/battery_holder_bottom_PCB_front.jpg" width=350>
+</td>
+<td width=355>
+<img src="Images/battery_holder_bottom_PCB_back.jpg" width=350>
+</td>
+</tr>
+<tr>
+<td align=center>
+Battery holder bottom PCB (front view)
+</td>
+<td align=center valign=top>
+Battery holder bottom PCB (back view)
+</td>
+</tr>
+</table></p>
 
 

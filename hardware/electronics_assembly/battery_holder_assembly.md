@@ -1,6 +1,6 @@
 # battery_holder_assembly
 
-<P>The battery_holder_assembly consists of a 3D printed battery holder tube sandwiched between two PCBs: the battery holder top and bottom PCBs. The holder accomodates 14 c-cell batteries.  Alkaline or rechargeable NiMH batteries may be used. The unit is held together by four 135mm stainless steel socket head screws that pass through holes in the PCBs (two blank holes and two vias).  The screws fastened through the vias create a conductive pathway between the top and bottom PCBs.  
+<P>The battery_holder_assembly consists of a 3D printed battery holder tube sandwiched between two PCBs (the battery holder top and bottom PCBs). The holder accomodates 14 c-cell batteries.  Alkaline or rechargeable NiMH batteries may be used. The unit is held together by four 135mm stainless steel socket head screws that pass through holes in the PCBs (two blank holes and two vias).  The screws fastened through the vias create a conductive pathway between the top and bottom PCBs.  
 </p>
 
 <P><table>
@@ -25,6 +25,7 @@ battery_holder_assembly bottom
 <img src="Images/Battery_holder_BOM.jpg">
 
 ### Assembly (approximate time: 20 minutes): 
+1. Assemble the battery holder top and bottom PCBs
 1.	Attach four M3x135 mm socket head screws with washers through the bottom PCB, as shown in the photo below.
 <P>
   <table>
@@ -147,7 +148,7 @@ Battery holder bottom assembled PCB (back view)
 </table></p>
 
 ### 3D Printed Parts & Gerber Files
-We use a PLA filament to produce the battery_holder_part. The 3D models for the C-cells battery holder (C-cells_105mm) are available in the <a href="3D_Models/">3D Models directory</a>.
+We use PLA filament to produce the battery_holder_part. The 3D models (C-cells_105mm) are available in the <a href="3D_Models/">3D Models directory</a>.
 <P>Gerber files for PCB production can be found in the <a href="Gerbers/">Gerber files directory</a></P>
 <P>
   <table>

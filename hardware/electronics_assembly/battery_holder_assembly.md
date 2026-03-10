@@ -104,8 +104,7 @@ Battery holder top assembled PCB (back view)
 
 ### PCB: Battery Holder Bottom
  	 
-<P>PCB: Battery Holder Bottom (front view)	PCB: Battery Holder Bottom (back view)
- The assembled Battery Holder Bottom PCB includes a screw terminal block connector for power output to the Bus Board. The board is physically attached to the Mainboard with brass hex spacers through the four mounting holes. The Battery Holder Bottom PCB can be used in both 4-inch and 5-inch diameter c-cell battery holder assemblies.</P>
+<P>The assembled battery_holder_bottom PCB includes a screw terminal block connector for power output to pcb_mainboard and the motor. Four holes along the perimeter of the PCB allow it ot be mounted above pcb_mainboard using brass hex spacers and screws.</P>
 <P><table>
 <tr>
 <td width=355>

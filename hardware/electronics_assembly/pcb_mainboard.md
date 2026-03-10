@@ -20,3 +20,21 @@ The Mainboard contains the [Teensy 4.1](https://www.pjrc.com/store/teensy41.html
 
 ### Gerber files
 Gerber files for PCB production can be found in the <a href="Gerbers/">Gerber files directory</a>.
+<P><table>
+<tr>
+<td width=355>
+<img src="Images/PCB_mainboard_with_current_sensor.jpg" width=350>
+</td>
+<td width=355>
+<img src="Images/PCB_mainboard_without_current_sensor.jpg" width=350>
+</td>
+</tr>
+<tr>
+<td align=center>
+PCB mainboard with current sensor
+</td>
+<td align=center valign=top>
+PCB mainboard without current sensor
+</td>
+</tr>
+</table></p>

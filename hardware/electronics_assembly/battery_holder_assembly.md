@@ -45,14 +45,13 @@ battery_holder_assembly bottom
 <P>
   <table>
     <tr>
-      <td>
+      <td align=center>
         <img src="Images/battery_placement.jpg" width=300>
       </td>
     </tr>
     <tr>
       <td align=center>
-        Slide the battery_holder_part over the 
-        135mm screws and insert batteries.
+        Slide the battery_holder_part over the 135mm screws and insert batteries.
       </td>
     </tr>
   </table>

@@ -1,6 +1,6 @@
 # battery_holder_assembly
 
-<P>The Battery Holder Assembly consists of a 3D printed battery holder tube sandwiched between two PCBs.  It is held together by four brass hex spacers (110 mm) through the blank holes (2) and open vias (2).  The spacers fastened through vias create a conductive pathway between the top and bottom PCBs.  
+<P>The Battery Holder Assembly consists of a 3D printed battery holder tube sandwiched between two PCBs: the battery holder top and bottom PCBs. The holder accomodates 14 c-cell batteries.  Alkaline or rechargeable NiMH batteries may be used. The unit is held together by four 135mm stainless steel socket head screws that pass through holes in the PCBs (two blank holes and two vias).  The screws fastened through the vias create a conductive pathway between the top and bottom PCBs.  
 </p>
 
 <P><table>

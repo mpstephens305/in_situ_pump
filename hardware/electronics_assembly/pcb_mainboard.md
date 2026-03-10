@@ -16,7 +16,7 @@ The Mainboard contains the [Teensy 4.1](https://www.pjrc.com/store/teensy41.html
 3.	Insert Teensy 4.1 with Micro SD into headers.
 4.	Insert coin battery.
 
-<P><img src="Images/PCB_mainboard.jpg"></P>
+<P><img src="Images/PCB_mainboard_BOM.jpg"></P>
 
 ### 3D Printed Parts
 We use a 3D printer to produce the battery holder with 100% infill.

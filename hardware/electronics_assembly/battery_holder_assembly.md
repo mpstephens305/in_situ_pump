@@ -133,7 +133,7 @@ Battery holder bottom PCB (back view)
 <img src="Images/battery_holder_bottom_assembled_PCB_front.jpg" width=350>
 </td>
 <td width=355>
-<img src="battery_holder_bottom_assembled_PCB_back.jpg" width=350>
+<img src="Images/battery_holder_bottom_assembled_PCB_back.jpg" width=350>
 </td>
 </tr>
 <tr>

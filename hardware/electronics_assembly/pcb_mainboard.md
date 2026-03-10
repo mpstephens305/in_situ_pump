@@ -18,7 +18,5 @@ The Mainboard contains the [Teensy 4.1](https://www.pjrc.com/store/teensy41.html
 
 <P><img src="Images/PCB_mainboard_BOM.jpg"></P>
 
-### 3D Printed Parts
-We use a 3D printer to produce the battery holder with 100% infill.
-
-The 3D models including .STEP and .STL files are available in the [3D models directory](../../hardware/pump_unit/3D_Models).
+### Gerber files
+Gerber files for PCB production can be found in the <a href="Gerbers/">Gerber files directory</a>.

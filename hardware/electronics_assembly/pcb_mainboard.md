@@ -22,9 +22,7 @@ Assembled pcb_mainboard with with Teensy 4.1
 
 ## Assembly (approximate time: 30 minutes):  
 > [!IMPORTANT]
-> * Solder pins onto all four vias on back side of voltage regulator.
-> * Remove terminal block included in current sensor and replace with pins, and solder the other six pins onto the remaining vias.
-> * All components mount to the top of the Mainboard.
+> * Refer to the photos above to ensure components are oriented correctly.
 
 1.	Insert pin headers, battery holder, JST-XH connectors, screw terminal block connectors, voltage regulator, and current sensor to PCB board.
 2.	Solder all pins.

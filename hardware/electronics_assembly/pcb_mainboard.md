@@ -3,11 +3,11 @@
 pcb_mainboard contains the [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) microprocessor and connections for external components including the motor electronic speed controller (ESC), pressure sensor, switches and LEDs, and the USB port. A Buck converter module regulates the voltage supplied to Teensy (5V). A coin cell battery holder powers Teensy’s real time clock (RTC) when the unit is powered down. Teensy’s built-in microSD card slot allows for data logging. Optional components include an INA219 current sensor (to monitor amps consumed by the motor) and two Hall effect flowmeter connections. pcb_mainboard is mounted on the pcb_tray_part via four mounting holes.  
 <P><table>
 <tr>
-<td width=355>
-<img src="Images/PCB_mainboard_assembled.jpg" width=375>
+<td width=400>
+<img src="Images/PCB_mainboard_assembled.jpg" width=400>
 </td>
-<td width=355>
-<img src="Images/PCB_mainboard_with_Teensy.jpg" width=375>
+<td width=400>
+<img src="Images/PCB_mainboard_with_Teensy.jpg" width=400>
 </td>
 </tr>
 <tr>

@@ -4,10 +4,10 @@ pcb_mainboard contains the [Teensy 4.1](https://www.pjrc.com/store/teensy41.html
 <P><table>
 <tr>
 <td width=355>
-<img src="Images/PCB_mainboard_assembled.jpg" width=350>
+<img src="Images/PCB_mainboard_assembled.jpg" width=375>
 </td>
 <td width=355>
-<img src="Images/PCB_mainboard_with_Teensy.jpg" width=350>
+<img src="Images/PCB_mainboard_with_Teensy.jpg" width=375>
 </td>
 </tr>
 <tr>
@@ -24,10 +24,12 @@ Assembled pcb_mainboard with with Teensy 4.1
 > [!IMPORTANT]
 > * Refer to the photos above to ensure components are oriented correctly.
 
-1.	Insert pin headers, battery holder, JST-XH connectors, screw terminal block connectors, voltage regulator, and current sensor to PCB board.
-2.	Solder all pins.
-3.	Insert Teensy 4.1 with Micro SD into headers.
-4.	Insert coin battery.
+1.	Solder pin headers for Teensy 4.1 to the PCB.
+2.	Solder battery holder, JST-XH connectors, screw terminal block connectors, voltage regulator, USB-A socket, and current sensor (optional) to the PCB.
+3.	Using an external power supply or the battery_holder_assembly to power to the Buck converter, adjust the output to 5V.
+4.	Insert Teensy 4.1 with Micro SD into headers.
+5.	Connect the USB-A socket to Teensy's microUSB socket using the ribbon USB cable.
+6.	Insert coin battery.
 
 <P><img src="Images/PCB_mainboard_BOM.jpg"></P>
 

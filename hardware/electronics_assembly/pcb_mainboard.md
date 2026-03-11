@@ -15,7 +15,7 @@ pcb_mainboard contains the [Teensy 4.1](https://www.pjrc.com/store/teensy41.html
 Assembled PCB mainboard
 </td>
 <td align=center valign=top>
-Assemble PCB mainboard with with teensy 4.1
+Assemble PCB mainboard with with Teensy 4.1
 </td>
 </tr>
 </table></p>

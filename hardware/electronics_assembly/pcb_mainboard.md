@@ -20,9 +20,6 @@ Assemble PCB mainboard with with Teensy 4.1
 </tr>
 </table></p>
 
-> [!NOTE]
-> Pins Int2 is unused as of the pump’s current state.
-
 ## Assembly (approximate time: 30 minutes):  
 > [!IMPORTANT]
 > * Solder pins onto all four vias on back side of voltage regulator.

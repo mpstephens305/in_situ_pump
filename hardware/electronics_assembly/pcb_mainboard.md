@@ -20,7 +20,7 @@ Assembled pcb_mainboard with with Teensy 4.1
 </tr>
 </table></p>
 
-## Assembly (approximate time: 30 minutes):  
+## Assembly (approximate time: 45 minutes):  
 > [!IMPORTANT]
 > * Refer to the photos above to ensure components are oriented correctly.
 

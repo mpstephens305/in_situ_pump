@@ -12,10 +12,10 @@ pcb_mainboard contains the [Teensy 4.1](https://www.pjrc.com/store/teensy41.html
 </tr>
 <tr>
 <td align=center>
-Assembled PCB mainboard
+Assembled pcb_mainboard
 </td>
 <td align=center valign=top>
-Assemble PCB mainboard with with Teensy 4.1
+Assembled pcb_mainboard with with Teensy 4.1
 </td>
 </tr>
 </table></p>

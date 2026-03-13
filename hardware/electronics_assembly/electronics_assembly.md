@@ -24,13 +24,13 @@ The electronics_assembly includes PCB_mainboard and the battery_holder_assembly,
 > <P>Separate pages give detailed instructions for assembling <a href="pcb_mainboard.md">PCB mainboard</a> and the <a href="battery_holder_assembly.md">battery_holder_assembly</a>.
 
 1. Attach the endcaps to the O-ring sealing flanges using the included face seal O-ring and end cap screws. 
-2. Prepare each wire by trimming it to ≈ 10cm, stripping the end, and crimping on a female pin connector. The plastic JST connectors should be attached according to the wiring guide below.
+2. Prepare each wire by trimming it to ≈ 10cm, stripping the end, and crimping on a female pin connector. The plastic JST connector bodies should be attached according to the wiring guide below.
 <P><img src="Images/JST_connector_guide.jpg"></P>
 
 > [!TIP]
 > The assembled 3-pin and 4-pin connectors will not fit through the M10 end cap holes. Therefore, it is recommended not to insert the wires into the plastic body until the component or penetrator has been mounted to the end cap.
 
-4. Mount the following components to the M10 x10 hole end cap: WetLink penetrators for the motor and flow sensor, Bar30 pressure sensor, red and green LEDs, two switches, Cobalt bulkhead connector (USB), pressure relief valve, and a blank penetrator.
+3. Mount the following components to the M10 x10 hole end cap: WetLink penetrators for the motor and flow sensor, Bar30 pressure sensor, red and green LEDs, two switches, Cobalt bulkhead connector (USB), pressure relief valve, and a blank penetrator.
 
   <P>
   <table>
@@ -49,13 +49,13 @@ The electronics_assembly includes PCB_mainboard and the battery_holder_assembly,
     </tr>
   </table>
 </P>
- 
-5. Insert each wire into the appropriate JST connector body.  
-6. Plug in the following components to the front of the Assembled Mainboard: red and green LEDS, two switches, Bar30 Pressure sensor, Cobalt connector wires (USB connection), Flow sensor, and ESC connector.
+4. Assemble the PCB_tray using one M3x8mm socket head screw on each end, and attach PCB_mainboard using M3x8mm screws in the four mounting holes. 
+5. Screw four M3x10mm brass hex spacers into the mounting holes in the sealing flange, and then attach the PCB_tray to the spacers using M3x8mm socket head screws and locking washers.
+5. Plug in the following components to the assembled PCB_mainboard: red and green LEDS, two switches, Bar30 Pressure sensor, Cobalt connector wires (USB connection), Flow sensor, and ESC connector.
 7. Insert the ESC power leads (thick red and black wires) into the front screw terminal block, and tighten them down.
-8. Solder the banana connectors to the three conductors of the motor cable.  Then apply heat-shrink tubing to the connection.
-9. Insert the three banana connector male leads from the E200 motor into the matching color female leads from the ESC. 
-10. Screw four M3x60mm brass hex spacers into the mounting holes in the sealing flange.
+8. Solder banana connectors to the three conductors of the motor cable.  Then apply heat-shrink tubing to the connection.
+9. Insert the three banana connector male leads from the M200 motor into the matching color female leads from the ESC. 
+
 
 <P>
   <table>

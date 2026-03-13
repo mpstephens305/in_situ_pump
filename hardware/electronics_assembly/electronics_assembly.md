@@ -1,9 +1,7 @@
 # electronics_assembly
  	 
-The Electronics Assembly consists a Blue Robotics watertight enclosure with an end cap which mounts the sensors, indicators, penetrators, switches, and connector. The watertight enclosure also houses the PCB and power supply. The assembly is secured to the frame’s Base Plate with watertight enclosure clamps. In order to assemble all the electronics, previous assembly of the [PCB mainboard](../../hardware/electronics_assembly/pcb_mainboard.md) and the [battery holder](../../hardware/electronics_assembly/battery_holder_assembly.md) are required.
-
-> [!NOTE]
-> The instructions and files provided are for the 100mm (4-inch) diameter enclosure.
+The electronics_assembly includes PCB_mainboard and the battery_holder_assembly, which are contained within a Blue Robotics watertight enclosure qwith locking endcaps. Mounted on one end cap are two LED indicators and the pressure sensor, as well as penetrators for external components including the M200 motor, a USB connection, and optional flow sensors. The other end cap gives access to the the battery holder.  The assembly is clampeed to the frame’s base plate. 
+<P>Separate pages give detailed instructions for assembling [PCB mainboard](../../hardware/electronics_assembly/pcb_mainboard.md) and the [battery holder](../../hardware/electronics_assembly/battery_holder_assembly.md).
 
  <P>
   <table>

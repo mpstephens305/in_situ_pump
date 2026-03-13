@@ -18,6 +18,8 @@ The electronics_assembly includes PCB_mainboard and the battery_holder_assembly,
   </table>
 </P>
 
+<P><img src="Images/electronics_assembly_BOM.jpg"></P>
+
 ## Assembly (approximate time: 2 hours):  
 > [!IMPORTANT]
 > **Recommended tools and supplies**: Blue Robotics WetLink Bulkhead Wrench, adjustable wrench, bench vise, wire strippers, and ratcheting crimping tools for JST connectors and wire ferrules.

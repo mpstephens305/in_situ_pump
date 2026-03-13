@@ -70,9 +70,12 @@ The electronics_assembly includes PCB_mainboard and the battery_holder_assembly,
 5. Screw four M3x10mm brass hex spacers into the mounting holes in the sealing flange, and then attach the PCB_tray to the spacers using M3x8mm socket head screws and locking washers.
 6. Plug in the following components to the assembled PCB_mainboard: red and green LEDS, two switches, Bar30 Pressure sensor, Cobalt connector wires (USB connection), Flow sensor, and ESC connector.
 7. Insert the ESC power leads (thick red and black wires) into the front screw terminal block, and tighten them down.
-8. Solder banana connectors to the three conductors of the motor cable.  Then apply heat-shrink tubing to the connection.
-9. Insert the three banana connector male leads from the M200 motor into the matching color female leads from the ESC. 
-
+8. Solder banana connectors to the three conductors of the motor cable (male) and ESC (female).  Then apply heat-shrink tubing over the connectors.
+9. Insert the three banana connector male leads from the M200 motor into the matching color female leads from the ESC.
+10. Prepare 10cm lengths of red and black 22 awg wire, and then attach wire crimp ferrules to each end.
+11. Insert ferrules into screw terminals on the PCB_mainboard and the assembled battery holder bottom PCB, and tighten down.
+12. Attach an M3x10mm brass hex spacer to the PCB_tray end using a nut and locking washer, and then attach the battery holder bottom PCB to the brass spacers using M3x6mm phillips head brass screws.
+13. Assemble the rest of the battery_holder_assembly (instructions <a href="battery_holder_assembly.md"">here</a>).
 
 
 

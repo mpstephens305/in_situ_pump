@@ -75,7 +75,7 @@ The electronics_assembly includes PCB_mainboard and the battery_holder_assembly,
 10. Prepare 10cm lengths of red and black 22 awg wire, and then attach wire crimp ferrules to each end.
 11. Insert ferrules into screw terminals on the PCB_mainboard and the assembled battery holder bottom PCB, and tighten down.
 12. Attach an M3x10mm brass hex spacer to the PCB_tray end using a nut and locking washer, and then attach the battery holder bottom PCB to the brass spacers using M3x6mm phillips head brass screws.
-13. Assemble the rest of the battery_holder_assembly (instructions <a href="battery_holder_assembly.md"">here</a>).
+13. Assemble the rest of the battery_holder_assembly (instructions <a href="battery_holder_assembly.md">here</a>).
 
 
 

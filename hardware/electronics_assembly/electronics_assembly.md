@@ -1,7 +1,7 @@
 # electronics_assembly
  	 
 The electronics_assembly includes PCB_mainboard and the battery_holder_assembly, which are contained within a Blue Robotics watertight enclosure with locking endcaps. Mounted on one end cap are two LED indicators and the pressure sensor, as well as penetrators for external components including the M200 motor, a USB, and optional flow sensors. The other end cap gives access to the the battery holder.  The assembly is clampeed to the frame’s base plate. 
-<P>Separate pages give detailed instructions for assembling [PCB mainboard](../../hardware/electronics_assembly/pcb_mainboard.md) and the [battery holder](../../hardware/electronics_assembly/battery_holder_assembly.md).
+<P>Separate pages give detailed instructions for assembling <a href="pcb_mainboard.md">PCB mainboard</a> and the <a href="battery_holder_assembly.md">battery_holder_assembly</a>.
 
  <P>
   <table>

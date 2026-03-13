@@ -23,13 +23,12 @@ The electronics_assembly includes PCB_mainboard and the battery_holder_assembly,
 > **Recommended tools and supplies**: Blue Robotics WetLink Bulkhead Wrench, adjustable wrench, bench vise, wire strippers, and a ratcheting crimping tool for JST connectors.
 > <P>Separate pages give detailed instructions for assembling <a href="pcb_mainboard.md">PCB mainboard</a> and the <a href="battery_holder_assembly.md">battery_holder_assembly</a>.
 
-1. Mount the endcaps to the O-ring sealing flanges using the included face seal O-ring and end cap screws. 
+1. Attach the endcaps to the O-ring sealing flanges using the included face seal O-ring and end cap screws. 
 2. Prepare each wire by trimming it to ≈ 10cm, stripping the end, and crimping on a female pin connector.
-3. Prepare the Flow sensor wire by removing wires connected to the flow sensor module and replacing them with ≈ 65cm of PUR Subsea 3-conductor cable.
 
 > [!TIP]
-> The assembled 3-pin and 4-pin connectors will not fit through the M10 end cap holes. Therefore, it is recommended not to insert the wires into the plastic body until the component or penetrators has been mounted to the end cap.
-
+> The assembled 3-pin and 4-pin connectors will not fit through the M10 end cap holes. Therefore, it is recommended not to insert the wires into the plastic body until the component or penetrator has been mounted to the end cap.
+<P><img src="Images/JST_connector_guide.jpg"></P>
 4. Mount the following components to the M10 x10 hole end cap: WetLink penetrators for the motor and flow sensor, Bar30 pressure sensor, red and green LEDs, two switches, Cobalt bulkhead connector (USB), pressure relief valve, and a blank penetrator.
 
   <P>

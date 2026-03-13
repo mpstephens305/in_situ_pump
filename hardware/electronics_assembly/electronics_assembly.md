@@ -20,7 +20,7 @@ The electronics_assembly includes PCB_mainboard and the battery_holder_assembly,
 
 ## Assembly (approximate time: 2 hours):  
 > [!IMPORTANT]
-> **Recommended tools and supplies**: Blue Robotics WetLink Bulkhead Wrench, adjustable wrench, bench vise, wire strippers, ratcheting crimping tool for JST connectors.
+> **Recommended tools and supplies**: Blue Robotics WetLink Bulkhead Wrench, adjustable wrench, bench vise, wire strippers, and a ratcheting crimping tool for JST connectors.
 
 1. Mount the endcaps to the O-ring sealing flanges using the included face seal O-ring and end cap screws. 
 2. Prepare each wire by trimming it to ≈ 10cm, stripping the end, and crimping on a female pin connector.

@@ -38,9 +38,12 @@ The electronics_assembly includes PCB_mainboard and the battery_holder_assembly,
       <td align=center>
         <img src="Images/end_cap_components.jpg" width=400>
       </td>
+     <td align=center>
+        <img src="Images/end_cap_components_labeled.jpg" width=400>
+      </td>
     </tr>
     <tr>
-      <td align=center>
+      <td align=center colspan=2>
         M10 x10 hole end cap with mounted components.
       </td>
     </tr>

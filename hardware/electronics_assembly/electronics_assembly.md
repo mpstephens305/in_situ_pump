@@ -80,22 +80,22 @@ The electronics_assembly includes PCB_mainboard and the battery_holder_assembly,
 13. Assemble the rest of the battery_holder_assembly (instructions <a href="battery_holder_assembly.md">here</a>).
 14. The assembly can now be inserted into the cylindrical watertight enclosure and locked into place with the provided locking cord.
 15. Finally, assemble the blank end cap with its o-ring sealing flange and attach it to the watertight enclosure (note: loosen the pressure valve to insert the flange / end-cap).
+
 <P>
   <table>
     <tr>
       <td align=center rowspan=4>
         <img src="Images/electronics_assembly_1.jpg" width=300>
       </td>
-         <td align=center>
+      <td align=center>
         <img src="Images/electronics_assembly_front_view.jpg" width=400>
       </td>
     </tr>
-  
-      <tr>
+    <tr>
       <td align=center>
         PCB tray front view.
       </td>
-      </tr>
+    </tr>
     <tr>
      <td align=center>
         <img src="Images/PCB_tray_rear_view.jpg" width=400>

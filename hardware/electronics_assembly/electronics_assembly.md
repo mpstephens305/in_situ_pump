@@ -88,27 +88,24 @@ The electronics_assembly includes PCB_mainboard and the battery_holder_assembly,
       </td>
     </tr>
     <tr>
-      <td align=center>
+      <td align=center rowspan=4>
         PCB tray with mainboard PCB.
       </td>
-    </tr>
-  </table>
-</P>
-
-<P>
-  <table>
-    <tr>
       <td align=center>
         <img src="Images/electronics_assembly_front_view.jpg" width=400>
       </td>
-      <td align=center>
-        <img src="Images/PCB_tray_rear_view.jpg" width=400>
-      </td>
     </tr>
-    <tr>
+      <tr>
       <td align=center>
         PCB tray front view.
       </td>
+      </tr>
+    <tr>
+     <td align=center>
+        <img src="Images/PCB_tray_rear_view.jpg" width=400>
+      </td>
+    </tr>
+   <tr></tr>
      <td align=center>
         PCB tray rear view.
       </td>

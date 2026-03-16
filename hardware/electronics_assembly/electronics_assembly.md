@@ -110,7 +110,7 @@ The electronics_assembly includes PCB_mainboard and the battery_holder_assembly,
 </P>
 
 ### Data cable
-To assemble tge USB data cable, first strip the ends of the four leads on the Cobalt Series cable and then attach them to the USB-A male to 5-pin screw adapter as shown below. 
+To assemble the USB data cable, first strip the ends of the four leads on the Cobalt Series cable and then attach them to the USB-A male to 5-pin screw adapter as shown below. 
 <P>
   <table>
     <tr>

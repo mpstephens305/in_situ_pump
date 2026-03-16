@@ -101,7 +101,7 @@ The electronics_assembly includes PCB_mainboard and the battery_holder_assembly,
         <img src="Images/PCB_tray_rear_view.jpg" width=400>
       </td>
     </tr>
-   <tr></tr>
+   <tr>
      <td align=center>
         PCB tray rear view.
       </td>

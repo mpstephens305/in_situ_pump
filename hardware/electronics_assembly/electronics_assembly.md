@@ -109,6 +109,19 @@ The electronics_assembly includes PCB_mainboard and the battery_holder_assembly,
   </table>
 </P>
 
+### Data cable
+<P>
+  <table>
+    <tr>
+      <td align=center>
+        <img src="Images/Data_cable_assembly.jpg" width=300>
+      </td>
+      <td align=center>
+        <img src="Images/Data_cable.jpg" width=300>
+      </td>
+    </tr>
+  </table>
+  
 ### 3D Printed Parts
 We print the PCB tray using PLA filament. The 3D model files are available in the [3D models directory](3D_Models/).
 <P>
